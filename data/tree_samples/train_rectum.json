@@ -1,0 +1,3505 @@
+[
+    {
+        "id": "PIT_01_03790_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03794_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "poorly differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03847_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03853_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03857_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03866_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03867_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "poorly differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03869_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03872_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03952_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03957_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03959_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03960_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03961_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03974_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03977_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03980_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03982_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03987_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03988_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03995_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03998_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03999_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04013_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04035_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04037_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04038_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04039_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04047_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04059_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04074_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04085_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "poorly differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04092_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04102_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04109_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04114_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04122_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04131_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04145_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04146_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "poorly differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04162_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04163_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04165_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04185_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04206_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04218_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04220_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04222_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04229_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04236_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04247_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04248_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04253_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Signet‑ring cell carcinoma",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04255_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04259_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04261_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04289_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04306_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04315_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04327_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04337_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04352_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04356_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04369_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04377_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04379_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04383_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04384_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04385_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04387_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04391_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04399_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04405_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04412_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04413_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04420_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04421_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04436_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04438_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04457_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04470_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04478_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04479_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04480_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04481_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04502_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04503_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04518_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04519_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04520_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04529_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04532_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04535_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04538_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04539_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04540_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04554_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04556_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04576_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04577_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04582_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04585_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04592_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04594_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04597_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04604_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04605_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04624_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04625_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04637_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04644_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04646_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04648_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04652_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04680_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic submucosal dissection",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04682_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "poorly differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04688_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04693_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04706_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04708_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04714_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04719_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "well differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04724_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04725_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04743_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04748_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04750_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04755_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04786_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Adenocarcinoma,",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "moderately differentiated",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03986_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Tubular adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "low grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04427_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Tubular adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "low grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04549_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Tubular adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "low grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04654_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Tubular adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "low grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03958_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Tubular adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "high grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04000_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic mucosal resection",
+        "sub_feature": [
+            {
+                "principal": "Tubular adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "high grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04046_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Tubular adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "high grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04128_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Tubular adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "high grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04207_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Tubular adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "high grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04208_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Tubular adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "high grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04228_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Tubular adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "high grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04233_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Tubular adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "high grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04262_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Tubular adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "high grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04361_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Tubular adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "high grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04488_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Tubular adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "high grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04630_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic polypectomy",
+        "sub_feature": [
+            {
+                "principal": "Tubular adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "high grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04731_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Tubular adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "high grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04350_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Tubulovillous adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "low grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04461_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Tubulovillous adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "high grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04515_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic mucosal resection",
+        "sub_feature": [
+            {
+                "principal": "Tubulovillous adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "high grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04583_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Tubulovillous adenoma",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "high grade dysplasia",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03809_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic polypectomy",
+        "sub_feature": [
+            {
+                "principal": "Hyperplastic polyp",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04057_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic mucosal resection",
+        "sub_feature": [
+            {
+                "principal": "Hyperplastic polyp",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04139_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic mucosal resection",
+        "sub_feature": [
+            {
+                "principal": "Hyperplastic polyp",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04452_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Hyperplastic polyp",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04721_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Hyperplastic polyp",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04534_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Traditional serrated adenoma with low grade dysplasia",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04700_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic mucosal resection",
+        "sub_feature": [
+            {
+                "principal": "Serrated serrated lesion with low grade dysplasia",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03783_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03785_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03786_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03797_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_03856_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04014_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04015_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04034_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04080_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04167_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04187_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04265_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04292_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04370_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04382_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04401_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04415_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04443_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04487_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04528_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04530_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04531_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04565_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04574_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04580_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04581_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04591_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04606_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04609_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04670_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04723_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04729_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04771_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Chronic nonspecific inflammation",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04203_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Gastrointestinal stromal tumor",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04204_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Gastrointestinal stromal tumor",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04205_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Gastrointestinal stromal tumor",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04032_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Malignant lymphoma",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04774_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Malignant lymphoma",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04431_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Extranodal marginal zone B cell lymphoma of mucosa",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": ",",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            },
+            {
+                "principal": "    associated lymphoid tissue (MALT lymphoma)",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": " associated lymphoid tissue (MALT lymphoma)",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04042_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Neuroendocrine tumor",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "grade 1",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04135_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Neuroendocrine tumor",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "grade 1",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04142_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Neuroendocrine tumor",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "grade 1",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04200_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Neuroendocrine tumor",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "grade 1",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04245_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic submucosal dissection",
+        "sub_feature": [
+            {
+                "principal": "Neuroendocrine tumor",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "grade 1",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04293_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Neuroendocrine tumor",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "G1",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04304_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Neuroendocrine tumor",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "G1",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04338_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Neuroendocrine tumor",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "G1",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04351_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic submucosal dissection",
+        "sub_feature": [
+            {
+                "principal": "Neuroendocrine tumor",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "G1",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04559_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Neuroendocrine tumor",
+                "scores": "",
+                "sub_feature": [
+                    {
+                        "principal": "probably grade 1",
+                        "scores": "",
+                        "sub_feature": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04111_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Squamous cell carcinoma",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04194_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Squamous cell carcinoma",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04628_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Squamous cell carcinoma",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04713_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Squamous cell carcinoma",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    },
+    {
+        "id": "PIT_01_04717_01.tiff",
+        "organ": "Rectum",
+        "procedure": "colonoscopic biopsy",
+        "sub_feature": [
+            {
+                "principal": "Squamous cell carcinoma",
+                "scores": "",
+                "sub_feature": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+
+# data
+data/feature_cache/*
+
+# pretrained models
+Prism
+
+# trained checkpoints
+toe/ckpt/*
