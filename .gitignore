@@ -19,5 +19,3 @@ Prism/*
 
 # trained checkpoints
 toe/ckpt/*
-
-toe/reg
