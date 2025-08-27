@@ -37,7 +37,7 @@ Please pull the repository of [PRISM](https://huggingface.co/paige-ai/Prism) fro
 
 ### Train
 
-Run the scripts after specifying the directories of patch features, model path of PRISM, tree samples, and path to save slide features in `.sh` files. The options are:
+Run the scripts after specifying the directories of patch features, model path of PRISM, tree samples, and path to save slide features in `.sh` files. The options in `train_hier_cls_mlp.sh` are:
 
 <pre>
     --aggregator_path ./Prism \
@@ -60,7 +60,7 @@ If you want to see the log in more detail, set the option `--wandb` as `True` in
 
 ### Test
 
-Run the scripts after specifying the directories of patch features, model path of PRISM, and path to save slide features in `.sh` files. The options are:
+Run the scripts after specifying the directories of patch features, model path of PRISM, and path to save slide features in `.sh` files. The options in `test_hier_cls_mlp.sh` are:
 
 <pre>
     --aggregator_path ./Prism \
