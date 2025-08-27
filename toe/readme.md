@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ## 💻 Preparing tree labels and a pretrained model
 
 ### Constructing for tree labels
-We already constructed the tree labels for training dataset saved in `./toe/data/tree_samples` from the root directory. If you want to regenerate them, please refer to `toe/construct_tree_labels`. For example, `toe/construct_tree_labelsconstruct_train_tree_dataset_lung.py` aims to construct the tree labels for training samples whose organ labels are "lung".
+We already constructed the tree labels for training dataset saved in `toe/data/tree_samples`. If you want to regenerate them, please refer to `toe/construct_tree_labels`. For example, `toe/construct_tree_labelsconstruct_train_tree_dataset_lung.py` aims to construct the tree labels for training samples whose organ labels are "lung".
 
 ### Perparing slide encoder of Prism [1] (Perceiver) [2] 
 Please pull the repository of [PRISM](https://huggingface.co/paige-ai/Prism) from huggingface and replace the empty "Prism" folder in `toe`. (The repository must be moved exactly as it is.)
