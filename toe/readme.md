@@ -52,7 +52,7 @@ The option to specify in practice is `raw_feature_path`, the path to extracted t
 bash train_hier_cls_mlp.sh
 </pre>
 
-If you want to see the log in more detail, set the option `--wandb` option as `True` in `train_hier_cls_mlp.sh`
+If you want to see the log in more detail, set the option `--wandb` as `True` in `train_hier_cls_mlp.sh`
 
 
 ### Test

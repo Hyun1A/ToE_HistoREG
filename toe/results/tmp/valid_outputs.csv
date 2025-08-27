@@ -7,460 +7,569 @@ PIT_01_00008_01.tiff,Breast,"Breast, core-needle biopsy;
   Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_00075_01.tiff,Breast,"Breast, core-needle biopsy;
   1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
-  2. Microcalcification","Breast, sono-guided core biopsy;
-  1. Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)
-  2. Microcalcification"
+  2. Microcalcification","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_00092_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)","Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_00148_01.tiff,Breast,"Breast, core-needle biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, biopsy;
-  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
-  2. Ductal carcinoma in situ"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)"
 PIT_01_00153_01.tiff,Breast,"Breast, core-needle biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, core-needle biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 2)"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_00177_01.tiff,Breast,"Breast, sono-guided core biopsy;
   1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
   2. Ductal carcinoma in situ","Breast, sono-guided core biopsy;
-  Ductal carcinoma in situ
-  - Type: Papillary
-  - Nuclear grade: High
-  - Necrosis: Present (Focal)"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)"
 PIT_01_00196_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade I (Tubule formation: 1, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_00208_01.tiff,Breast,"Breast, sono-guided core biopsy;
   1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
   2. Ductal carcinoma in situ","Breast, sono-guided core biopsy;
-  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
-  2. Ductal carcinoma in situ"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)"
 PIT_01_00226_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 2, Nuclear grade: 2, Mitoses: 2)","Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)"
-PIT_01_00231_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 2)","Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 2)"
-PIT_01_00289_01.tiff,Breast,"Breast, core-needle biopsy;
-  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)","Breast, core-needle biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
+PIT_01_00231_01.tiff,Prostate,"Breast, sono-guided core biopsy;
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 2)","Prostate, biopsy;
+  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 15%"
+PIT_01_00289_01.tiff,Breast,"Breast, core-needle biopsy;
+  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
+  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_00309_01.tiff,Breast,"Breast, core-needle biopsy;
   Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_00335_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
-  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
-  2. Ductal carcinoma in situ"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, biopsy;
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_00366_01.tiff,Breast,"Breast, mammotome biopsy;
   1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 2)
   2. Ductal carcinoma in situ
-  3. Microcalcification","Breast, mammotome biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 2)"
+  3. Microcalcification","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_00385_01.tiff,Breast,"Breast, core-needle biopsy;
   1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
   2. Microcalcification","Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
+  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_00468_01.tiff,Breast,"Breast, core-needle biopsy;
   1. Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)
-  2. Ductal carcinoma in situ","Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)"
+  2. Ductal carcinoma in situ","Breast, biopsy;
+  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)
+  2. Ductal carcinoma in situ"
 PIT_01_00563_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_00687_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_00716_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_00733_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)","Breast, biopsy;
+  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_00821_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
   Ductal carcinoma in situ
-  - Type: Cribriform and solid
-  - Nuclear grade: High
-  - Necrosis: Present (Focal)"
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present"
 PIT_01_00825_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
-  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
-  2. Ductal carcinoma in situ"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_00826_01.tiff,Breast,"Breast, sono-guided core biopsy;
   1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
-  2. Microcalcification","Breast, sono-guided core biopsy;
+  2. Microcalcification","Breast, biopsy;
   1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
   2. Ductal carcinoma in situ"
 PIT_01_00829_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)","Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)"
 PIT_01_00941_01.tiff,Breast,"Breast, core-needle biopsy;
   1. Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)
-  2. Ductal carcinoma in situ","Breast, core-needle biopsy;
-  1. Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)
-  2. Ductal carcinoma in situ"
+  2. Ductal carcinoma in situ","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_00956_01.tiff,Breast,"Breast, sono-guided core biopsy;
   1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
   2. Ductal carcinoma in situ","Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_00962_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)"
+  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_00995_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, core-needle biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 2)"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)"
 PIT_01_00996_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
+  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_01008_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)","Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)"
 PIT_01_01031_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_01037_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)","Breast, biopsy;
-  Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)"
-PIT_01_01230_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, core-needle biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
-PIT_01_01256_01.tiff,Breast,"Breast, sono-guided core biopsy;
+PIT_01_01230_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
-  1. Papillary neoplasm
-  2. Usual ductal hyperplasia"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)"
+PIT_01_01256_01.tiff,Breast,"Breast, sono-guided core biopsy;
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_01281_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_01298_01.tiff,Breast,"Breast, sono-guided core biopsy;
   1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
-  2. Ductal carcinoma in situ","Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
+  2. Ductal carcinoma in situ","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_01317_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 2)","Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)"
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_01319_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present"
 PIT_01_01336_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)","Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)","Breast, biopsy;
+  Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)"
 PIT_01_01370_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)","Breast, sono-guided core biopsy;
+  Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)","Breast, biopsy;
   Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)"
 PIT_01_01475_01.tiff,Breast,"Breast, core-needle biopsy;
   1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
-  2. Ductal carcinoma in situ","Breast, core-needle biopsy;
-  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
-  2. Ductal carcinoma in situ"
+  2. Ductal carcinoma in situ","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_01531_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)","Breast, sono-guided core biopsy;
-  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
-  2. Microcalcification"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)"
 PIT_01_01596_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_01672_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_01758_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)"
 PIT_01_01888_01.tiff,Breast,"Breast, core-needle biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, core-needle biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
-PIT_01_01967_01.tiff,Breast,"Breast, core-needle biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 2)"
+  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)"
+PIT_01_01967_01.tiff,Breast,"Breast, core-needle biopsy;
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, biopsy;
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)"
 PIT_01_02029_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)"
 PIT_01_02145_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
-  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
-  2. Ductal carcinoma in situ"
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present"
 PIT_01_00181_01.tiff,Breast,"Breast, core-needle biopsy;
   Invasive lobular carcinoma","Breast, biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_00664_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Invasive lobular carcinoma","Breast, sono-guided core biopsy;
-  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
-  2. Invasive lobular carcinoma"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_00147_01.tiff,Breast,"Breast, core-needle biopsy;
   Ductal carcinoma in situ
   - Type: Solid
   - Nuclear grade: High
   - Necrosis: Absent","Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)"
 PIT_01_00356_01.tiff,Breast,"Breast, core-needle biopsy;
   Ductal carcinoma in situ
   - Type: Solid
   - Nuclear grade: Intermediate
   - Necrosis: Absent","Breast, core-needle biopsy;
-  Usual ductal hyperplasia"
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_00522_01.tiff,Breast,"Breast, sono-guided biopsy;
   Ductal carcinoma in situ
   - Type: Cribriform
   - Nuclear grade: High
-  - Necrosis: Present (Focal)","Breast, sono-guided core biopsy;
+  - Necrosis: Present (Focal)","Breast, biopsy;
   Ductal carcinoma in situ
-  - Type: Papillary
-  - Nuclear grade: High
+  - Type: Solid
+  - Nuclear grade: Low
   - Necrosis: Present (Focal)"
 PIT_01_00907_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Ductal carcinoma in situ
   - Type: Solid
   - Nuclear grade: Intermediate
-  - Necrosis: Present (Focal)","Breast, sono-guided core biopsy;
+  - Necrosis: Present (Focal)","Breast, biopsy;
   Ductal carcinoma in situ
-  - Type: Cribriform and solid
-  - Nuclear grade: High
+  - Type: Solid
+  - Nuclear grade: Low
   - Necrosis: Present (Focal)"
 PIT_01_00965_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Ductal carcinoma in situ
   - Type: Solid
   - Nuclear grade: High
   - Necrosis: Present (Comedo-type)","Breast, sono-guided core biopsy;
-  Ductal carcinoma in situ
-  - Type: Papillary
-  - Nuclear grade: High
-  - Necrosis: Present (Focal)"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)"
 PIT_01_01167_01.tiff,Breast,"Breast, sono-guided core biopsy;
   1. Ductal carcinoma in situ
   - Type: Solid
   - Nuclear grade: High
   - Necrosis: Present (Focal)
-  2. Microcalcification","Breast, sono-guided core biopsy;
+  2. Microcalcification","Breast, biopsy;
   Ductal carcinoma in situ
-  - Type: Papillary
-  - Nuclear grade: High
+  - Type: Solid
+  - Nuclear grade: Low
   - Necrosis: Present (Focal)"
 PIT_01_01301_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Ductal carcinoma in situ
   - Type: Solid
   - Nuclear grade: Intermediate
-  - Necrosis: Present (Focal)","Breast, sono-guided core biopsy;
-  1. Ductal carcinoma in situ
-  2. Papillary neoplasm"
+  - Necrosis: Present (Focal)","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_02034_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Ductal carcinoma in situ
   - Type: Solid
   - Nuclear grade: High
-  - Necrosis: Present (Focal)","Breast, sono-guided core biopsy;
+  - Necrosis: Present (Focal)","Breast, biopsy;
   Ductal carcinoma in situ
-  - Type: Papillary
-  - Nuclear grade: High
+  - Type: Solid
+  - Nuclear grade: Low
   - Necrosis: Present (Focal)"
 PIT_01_02111_01.tiff,Breast,"Breast, core-needle biopsy;
   Ductal carcinoma in situ
   - Type: Cribriform
   - Nuclear grade: Low
-  - Necrosis: Absent","Breast, core-needle biopsy;
+  - Necrosis: Absent","Breast, biopsy;
   Ductal carcinoma in situ
-  - Type: Papillary
-  - Nuclear grade: High
+  - Type: Solid
+  - Nuclear grade: Low
   - Necrosis: Present (Focal)"
 PIT_01_02172_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Ductal carcinoma in situ
   - Type: Cribriform
   - Nuclear grade: Low
-  - Necrosis: Absent","Breast, sono-guided core biopsy;
+  - Necrosis: Absent","Breast, biopsy;
   Ductal carcinoma in situ
-  - Type: Papillary
-  - Nuclear grade: High
+  - Type: Solid
+  - Nuclear grade: Low
   - Necrosis: Present (Focal)"
 PIT_01_00377_01.tiff,Breast,"Breast, core-needle biopsy;
-  Fibroepithelial tumor, favor phyllodes tumor","Breast, sono-guided core biopsy;
-  Fibroepithelial tumor, favor phyllodes tumor"
+  Fibroepithelial tumor, favor phyllodes tumor","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present"
 PIT_01_00637_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Fibroepithelial tumor","Breast, sono-guided core biopsy;
-  Fibroepithelial tumor"
+  Fibroepithelial tumor","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_01366_01.tiff,Breast,"Breast, core-needle biopsy;
   Fibroadenoma","Breast, core-needle biopsy;
-  Fibroepithelial tumor"
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_01498_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Fibroadenomatoid change","Breast, core-needle biopsy;
-  Microcalcification"
+  Fibroadenomatoid change","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present"
 PIT_01_01905_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Fibroadenomatoid change","Breast, sono-guided core biopsy;
-  Fibroepithelial tumor, favor fibroadenoma"
+  Fibroadenomatoid change","Breast, core-needle biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_02137_01.tiff,Breast,"Breast, core-needle biopsy;
   1. Fibroadenoma
-  2. Usual ductal hyperplasia","Breast, core-needle biopsy;
-  Fibroadenoma"
+  2. Usual ductal hyperplasia","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_00649_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Papillary neoplasm","Breast, sono-guided core biopsy;
-  Papillary neoplasm"
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_01125_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Papillary neoplasm","Breast, sono-guided core biopsy;
-  Papillary neoplasm"
+  Papillary neoplasm","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_01142_01.tiff,Breast,"Breast, core-needle biopsy;
   Solid papillary carcinoma in situ","Breast, sono-guided core biopsy;
-  Mucinous carcinoma"
-PIT_01_01513_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Papillary neoplasm","Breast, sono-guided core biopsy;
-  Papillary neoplasm"
-PIT_01_01649_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Papillary neoplasm","Breast, sono-guided core biopsy;
-  Papillary neoplasm"
-PIT_01_01954_01.tiff,Breast,"Breast, core-needle biopsy;
-  Intraductal papilloma","Breast, core-needle biopsy;
-  Papillary neoplasm"
-PIT_01_01979_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Papillary neoplasm","Breast, sono-guided core biopsy;
   Ductal carcinoma in situ
-  - Type: Papillary
-  - Nuclear grade: High
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
+PIT_01_01513_01.tiff,Breast,"Breast, sono-guided core biopsy;
+  Papillary neoplasm","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
+PIT_01_01649_01.tiff,Breast,"Breast, sono-guided core biopsy;
+  Papillary neoplasm","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
+PIT_01_01954_01.tiff,Breast,"Breast, core-needle biopsy;
+  Intraductal papilloma","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
+PIT_01_01979_01.tiff,Breast,"Breast, sono-guided core biopsy;
+  Papillary neoplasm","Breast, core-needle biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
   - Necrosis: Present (Focal)"
 PIT_01_01993_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Papillary neoplasm","Breast, sono-guided core biopsy;
-  Papillary neoplasm"
+  Papillary neoplasm","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_01994_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Papillary neoplasm","Breast, sono-guided core biopsy;
-  Papillary neoplasm"
+  Papillary neoplasm","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_01725_01.tiff,Breast,"Breast, sono-guided core biopsy;
   1. Invasive carcinoma with features of mucinous carcinoma
   2. Microcalcification","Breast, sono-guided core biopsy;
-  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
-  2. Ductal carcinoma in situ"
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present"
 PIT_01_01862_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Invasive carcinoma with features of mucinous carcinoma","Breast, core-needle biopsy;
-  Invasive carcinoma with features of mucinous carcinoma"
+  Invasive carcinoma with features of mucinous carcinoma","Breast, sono-guided core biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_00183_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Mucinous carcinoma","Breast, core-needle biopsy;
-  Mucinous carcinoma"
+  Mucinous carcinoma","Breast, sono-guided core biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present"
 PIT_01_00496_01.tiff,Breast,"Breast, sono-guided core biopsy;
   Mucinous carcinoma","Breast, sono-guided core biopsy;
-  Mucinous carcinoma"
-PIT_01_00961_01.tiff,Breast,"Breast, sono-guided core biopsy;
-  Malignant lymphoma","Breast, sono-guided core biopsy;
-  Malignant lymphoma"
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
+PIT_01_00961_01.tiff,Lung,"Breast, sono-guided core biopsy;
+  Malignant lymphoma","Lung, biopsy;
+  Non-small cell carcinoma, favor adenocarcinoma"
 PIT_01_01719_01.tiff,Breast,"Breast, sono-guided core biopsy;
   1. Mucinous carcinoma
-  2. Ductal carcinoma in situ","Breast, sono-guided core biopsy;
-  Mucinous carcinoma"
+  2. Ductal carcinoma in situ","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_01922_01.tiff,Breast,"Breast, core-needle biopsy;
-  Mucinous carcinoma","Breast, core-needle biopsy;
-  Mucinous carcinoma"
+  Mucinous carcinoma","Breast, sono-guided core biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present"
 PIT_01_01190_01.tiff,Breast,"Breast, core-needle biopsy;
   Apocrine metaplasia","Breast, core-needle biopsy;
-  1. Apocrine metaplasia
-  2. Duct ectasia"
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_01499_01.tiff,Breast,"Breast, core-needle biopsy;
   Duct ectasia","Breast, core-needle biopsy;
-  Duct ectasia"
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_01525_01.tiff,Breast,"Breast, core-needle biopsy;
   Fibrocystic change","Breast, core-needle biopsy;
-  Fibrocystic change"
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_01699_01.tiff,Breast,"Breast, core-needle biopsy;
   Duct ectasia","Breast, core-needle biopsy;
-  No evidence of tumor"
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_01791_01.tiff,Breast,"Breast, core-needle biopsy;
   Usual ductal hyperplasia","Breast, core-needle biopsy;
-  No evidence of tumor"
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_01860_01.tiff,Breast,"Breast, core-needle biopsy;
   Desmoid fibromatosis","Breast, core-needle biopsy;
-  Fibroepithelial tumor, favor fibroadenoma"
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_02157_01.tiff,Breast,"Breast, core-needle biopsy;
   No evidence of tumor","Breast, core-needle biopsy;
-  Fibroepithelial tumor, favor fibroadenoma"
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_02594_01.tiff,Breast,"Breast, biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, biopsy;
-  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_02605_01.tiff,Breast,"Breast, biopsy;
   1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
-  2. Microcalcification","Breast, biopsy;
-  Invasive carcinoma of no special type, grade I (Tubule formation: 3, Nuclear grade: 1, Mitoses: 1)"
+  2. Microcalcification","Breast, sono-guided core biopsy;
+  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_02623_01.tiff,Breast,"Breast, biopsy;
   1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
-  2. Ductal carcinoma in situ","Breast, sono-guided core biopsy;
+  2. Ductal carcinoma in situ","Breast, biopsy;
   1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
   2. Ductal carcinoma in situ"
 PIT_01_02681_01.tiff,Breast,"Breast, biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 2, Nuclear grade: 2, Mitoses: 2)","Breast, biopsy;
-  1. Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)
-  2. Ductal carcinoma in situ"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_02714_01.tiff,Breast,"Breast, biopsy;
   Invasive carcinoma of no special type, grade I (Tubule formation: 1, Nuclear grade: 2, Mitoses: 1)","Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 1, Mitoses: 1)"
+  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_02837_01.tiff,Breast,"Breast, biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)","Breast, sono-guided core biopsy;
-  1. Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)
-  2. Ductal carcinoma in situ"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_02852_01.tiff,Breast,"Breast, biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)","Breast, sono-guided core biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_02874_01.tiff,Breast,"Breast, biopsy;
   1. Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)
-  2. Microcalcification","Breast, biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
+  2. Microcalcification","Breast, sono-guided core biopsy;
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)"
 PIT_01_02878_01.tiff,Breast,"Breast, biopsy;
   Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)","Breast, biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 2)"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
 PIT_01_02911_01.tiff,Breast,"Breast, biopsy;
   1. Invasive carcinoma of no special type, grade II (Tubule formation: 2, Nuclear grade: 3, Mitoses: 2)
   2. Ductal carcinoma in situ
   3. Microcalcification","Breast, biopsy;
-  1. Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)
-  2. Ductal carcinoma in situ"
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_02547_01.tiff,Breast,"Breast, biopsy;
   Ductal carcinoma in situ
   - Type: Solid
   - Nuclear grade: Intermediate
   - Necrosis: Present (Comedo-type) ","Breast, biopsy;
-  Ductal carcinoma in situ
-  - Type: Papillary
-  - Nuclear grade: High
-  - Necrosis: Present (Focal)"
+  1. Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)
+  2. Ductal carcinoma in situ"
 PIT_01_02704_01.tiff,Breast,"Breast, biopsy;
   Ductal carcinoma in situ
   - Type: Solid
   - Nuclear grade: Intermediate
-  - Necrosis: Absent ","Breast, sono-guided core biopsy;
+  - Necrosis: Absent ","Breast, biopsy;
   Ductal carcinoma in situ
-  - Type: Papillary
-  - Nuclear grade: High
+  - Type: Solid
+  - Nuclear grade: Low
   - Necrosis: Present (Focal)"
 PIT_01_02915_01.tiff,Breast,"Breast, biopsy;
-  Papillary neoplasm with atypical ductal hyperplasia","Breast, core-needle biopsy;
+  Papillary neoplasm with atypical ductal hyperplasia","Breast, biopsy;
   Ductal carcinoma in situ
-  - Type: Papillary
-  - Nuclear grade: High
+  - Type: Solid
+  - Nuclear grade: Low
   - Necrosis: Present (Focal)"
 PIT_01_02638_01.tiff,Breast,"Breast, biopsy;
   1. Atypical ductal hyperplasia
-  2. Apocrine metaplasia","Breast, sono-guided core biopsy;
+  2. Apocrine metaplasia","Breast, biopsy;
   Ductal carcinoma in situ
-  - Type: Cribriform and solid
-  - Nuclear grade: High
+  - Type: Solid
+  - Nuclear grade: Low
   - Necrosis: Present (Focal)"
 PIT_01_02717_01.tiff,Breast,"Breast, biopsy;
   1. Intraductal papilloma
   2. Apocrine metaplasia","Breast, biopsy;
-  Apocrine metaplasia"
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_02637_01.tiff,Breast,"Breast, biopsy;
   1. Duct ectasia
-  2. Apocrine metaplasia","Breast, core-needle biopsy;
+  2. Apocrine metaplasia","Breast, biopsy;
   Ductal carcinoma in situ
-  - Type: Cribriform and solid
-  - Nuclear grade: High
+  - Type: Solid
+  - Nuclear grade: Low
   - Necrosis: Present (Focal)"
 PIT_01_02929_01.tiff,Breast,"Breast, biopsy;
-  Columnar cell lesion","Breast, sono-guided core biopsy;
-  1. Papillary neoplasm
-  2. Microcalcification"
+  Columnar cell lesion","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_09851_02.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
 1. No tumor present
 2. Chronic granulomatous inflammation with foreign body reaction
        
 Note) The specimen does not include muscle proper.","Urinary bladder, transurethral resection;
   No tumor present
-  Note) The specimen does not include muscle proper."
+  Note) The specimen includes muscle proper."
 PIT_01_09901_02.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
 No tumor present
        
 Note) The specimen does not include muscle proper.","Urinary bladder, transurethral resection;
-  No tumor present
-  Note) The specimen does not include muscle proper."
+  Note) The specimen includes muscle proper."
 PIT_01_09932_01.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
 1. No tumor present
 2. Chronic granulomatous inflammation with foreign body reaction
@@ -490,14 +599,14 @@ PIT_01_09984_02.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
 
 Note) The specimen does not include muscle proper.","Urinary bladder, transurethral resection;
   1. Urothelial carcinoma in situ
-  2. Invasive urothelial carcinoma, with involvement of subepithelial connective tissue
+  2. Invasive urothelial carcinoma, with involvement of muscle proper
   Note) The specimen includes muscle proper."
 PIT_01_09997_01.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   Invasive urothelial carcinoma,
   with involvement of subepithelial connective tissue
        
 Note) The specimen includes muscle proper.","Urinary bladder, transurethral resection;
-  Invasive urothelial carcinoma, with involvement of subepithelial connective tissue
+  Invasive urothelial carcinoma, with involvement of muscle proper
   Note) The specimen includes muscle proper."
 PIT_01_10011_04.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   1. Invasive urothelial carcinoma,
@@ -513,7 +622,7 @@ PIT_01_10019_02.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   2. Urothelial carcinoma in situ
 
 Note) The specimen includes muscle proper.","Urinary bladder, transurethral resection;
-  Invasive urothelial carcinoma, with involvement of subepithelial connective tissue
+  Invasive urothelial carcinoma, with involvement of muscle proper
   Note) The specimen includes muscle proper."
 PIT_01_10023_01.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   1. Invasive urothelial carcinoma,
@@ -521,7 +630,7 @@ PIT_01_10023_01.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   2. Urothelial carcinoma in situ
 
 Note) The specimen includes muscle proper.","Urinary bladder, transurethral resection;
-  Invasive urothelial carcinoma, with involvement of subepithelial connective tissue
+  Invasive urothelial carcinoma, with involvement of muscle proper
   Note) The specimen includes muscle proper."
 PIT_01_10065_03.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   Invasive urothelial carcinoma,
@@ -529,7 +638,7 @@ PIT_01_10065_03.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
        
 Note) The specimen does not include muscle proper.","Urinary bladder, transurethral resection;
   Invasive urothelial carcinoma, with involvement of subepithelial connective tissue
-  Note) The specimen does not include muscle proper."
+  Note) The specimen includes muscle proper."
 PIT_01_10068_01.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   Invasive urothelial carcinoma,
   with involvement of subepithelial connective tissue
@@ -543,22 +652,24 @@ PIT_01_10080_01.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   2. Urothelial carcinoma in situ
 
 Note) The specimen includes muscle proper.","Urinary bladder, transurethral resection;
-  Invasive urothelial carcinoma, with involvement of subepithelial connective tissue
+  Invasive urothelial carcinoma, with involvement of muscle proper
   Note) The specimen includes muscle proper."
-PIT_01_10086_01.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
+PIT_01_10086_01.tiff,Breast,"Urinary bladder, transurethral resection;
   Invasive urothelial carcinoma,
   with involvement of subepithelial connective tissue
        
-Note) The specimen does not include muscle proper.","Urinary bladder, transurethral resection;
-  Invasive urothelial carcinoma, with involvement of subepithelial connective tissue
-  Note) The specimen does not include muscle proper."
+Note) The specimen does not include muscle proper.","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_01_10089_01.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   Invasive urothelial carcinoma,
   with involvement of subepithelial connective tissue
        
 Note) The specimen does not include muscle proper.","Urinary bladder, transurethral resection;
   Invasive urothelial carcinoma, with involvement of subepithelial connective tissue
-  Note) The specimen does not include muscle proper."
+  Note) The specimen includes muscle proper."
 PIT_01_10093_01.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   Invasive urothelial carcinoma,
   with involvement of subepithelial connective tissue
@@ -572,7 +683,7 @@ PIT_01_10095_07.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
        
 Note) The specimen does not include muscle proper.","Urinary bladder, transurethral resection;
   Invasive urothelial carcinoma, with involvement of subepithelial connective tissue
-  Note) The specimen does not include muscle proper."
+  Note) The specimen includes muscle proper."
 PIT_01_10096_02.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   Invasive urothelial carcinoma,
   with involvement of subepithelial connective tissue
@@ -592,14 +703,13 @@ PIT_01_10118_02.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   with involvement of subepithelial connective tissue
        
 Note) The specimen includes muscle proper.","Urinary bladder, transurethral resection;
-  Urothelial carcinoma in situ
+  Invasive urothelial carcinoma, with involvement of muscle proper
   Note) The specimen includes muscle proper."
 PIT_01_10123_01.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   Invasive urothelial carcinoma,
   with involvement of subepithelial connective tissue
        
 Note) The specimen includes muscle proper.","Urinary bladder, transurethral resection;
-  Invasive urothelial carcinoma, with involvement of subepithelial connective tissue
   Note) The specimen includes muscle proper."
 PIT_01_10132_01.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   1. Invasive urothelial carcinoma,
@@ -607,8 +717,7 @@ PIT_01_10132_01.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   2. Urothelial carcinoma in situ
 
 Note) The specimen includes muscle proper.","Urinary bladder, transurethral resection;
-  1. Urothelial carcinoma in situ
-  2. Invasive urothelial carcinoma, with involvement of subepithelial connective tissue
+  Invasive urothelial carcinoma, with involvement of muscle proper
   Note) The specimen includes muscle proper."
 PIT_01_10135_02.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   Invasive urothelial carcinoma,
@@ -630,7 +739,7 @@ PIT_01_09964_02.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   2. Urothelial carcinoma in situ
 
 Note) The specimen includes muscle proper.","Urinary bladder, transurethral resection;
-  Invasive urothelial carcinoma, with involvement of subepithelial connective tissue
+  Invasive urothelial carcinoma, with involvement of muscle proper
   Note) The specimen includes muscle proper."
 PIT_01_10160_02.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   Invasive urothelial carcinoma, 
@@ -645,15 +754,14 @@ PIT_01_10049_01.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   2. Urothelial carcinoma in situ
 
 Note) The specimen includes muscle proper.","Urinary bladder, transurethral resection;
-  1. Urothelial carcinoma in situ
-  2. Invasive urothelial carcinoma, with involvement of subepithelial connective tissue
+  Invasive urothelial carcinoma, with involvement of muscle proper
   Note) The specimen includes muscle proper."
 PIT_01_10190_03.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   Invasive urothelial carcinoma, 
   with involvement of muscle proper
 
 Note) The specimen includes muscle proper.","Urinary bladder, transurethral resection;
-  Invasive urothelial carcinoma, with involvement of muscle proper
+  Invasive urothelial carcinoma, with involvement of subepithelial connective tissue
   Note) The specimen includes muscle proper."
 PIT_01_10244_01.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   Non-invasive papillary urothelial carcinoma, low grade
@@ -752,14 +860,13 @@ PIT_01_09948_03.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   2. Urothelial carcinoma in situ
 
 Note) The specimen includes muscle proper.","Urinary bladder, transurethral resection;
-  Non-invasive papillary urothelial carcinoma, high grade
+  Invasive urothelial carcinoma, with involvement of subepithelial connective tissue
   Note) The specimen includes muscle proper."
 PIT_01_10388_01.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   1. Non-invasive papillary urothelial carcinoma, high grade
   2. Urothelial carcinoma in situ
 
 Note) The specimen does not include muscle proper.","Urinary bladder, transurethral resection;
-  Non-invasive papillary urothelial carcinoma, high grade
   Note) The specimen includes muscle proper."
 PIT_01_10404_01.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   1. Non-invasive papillary urothelial carcinoma, high grade
@@ -780,27 +887,26 @@ PIT_01_10426_01.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
 Note) The specimen does not include muscle proper.","Urinary bladder, transurethral resection;
   Non-invasive papillary urothelial carcinoma, high grade
   Note) The specimen does not include muscle proper."
-PIT_01_10499_01.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
+PIT_01_10499_01.tiff,Breast,"Urinary bladder, transurethral resection;
   1. Non-invasive papillary urothelial carcinoma, high grade
   2. Chronic granulomatous inflammation with foreign body reaction
 
-Note) The specimen does not include muscle proper.","Urinary bladder, transurethral resection;
-  Non-invasive papillary urothelial carcinoma, high grade
-  Note) The specimen includes muscle proper."
+Note) The specimen does not include muscle proper.","Breast, sono-guided core biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present"
 PIT_01_10117_01.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   1. Non-invasive papillary urothelial carcinoma, high grade
   2. Urothelial carcinoma in situ
 
 Note) The specimen includes muscle proper.","Urinary bladder, transurethral resection;
-  1. Non-invasive papillary urothelial carcinoma, high grade
-  2. Urothelial carcinoma in situ
+  Urothelial carcinoma in situ
   Note) The specimen includes muscle proper."
 PIT_01_10127_03.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   Non-invasive papillary urothelial carcinoma, high grade
 
 Note) The specimen includes muscle proper.","Urinary bladder, transurethral resection;
-  1. Non-invasive papillary urothelial carcinoma, high grade
-  2. Urothelial carcinoma in situ
   Note) The specimen includes muscle proper."
 PIT_01_10524_02.tiff,Urinary bladder,"Urinary bladder, transurethral resection;
   Non-invasive papillary urothelial carcinoma, high grade
@@ -843,24 +949,24 @@ PIT_01_03440_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
   Low-grade squamous intraepithelial lesion (LSIL; CIN 1)"
 PIT_01_03502_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
   Low-grade squamous intraepithelial lesion (LSIL; CIN 1)","Uterine cervix, colposcopic biopsy;
-  High-grade squamous intraepithelial lesion (HSIL; CIN 2) with glandular involvement"
+  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)"
 PIT_01_03543_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
   Low-grade squamous intraepithelial lesion (LSIL; CIN 1)","Uterine cervix, colposcopic biopsy;
   Low-grade squamous intraepithelial lesion (LSIL; CIN 1)"
 PIT_01_03578_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
-  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)","Uterine cervix, punch biopsy;
+  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)","Uterine cervix, colposcopic biopsy;
   Low-grade squamous intraepithelial lesion (LSIL; CIN 1)"
 PIT_01_03592_01.tiff,Uterine cervix,"Uterine cervix, punch biopsy;
   Low-grade squamous intraepithelial lesion (LSIL; CIN 1)","Uterine cervix, colposcopic biopsy;
   Low-grade squamous intraepithelial lesion (LSIL; CIN 1)"
 PIT_01_03598_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
-  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)","Uterine cervix, punch biopsy;
+  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)","Uterine cervix, colposcopic biopsy;
   Low-grade squamous intraepithelial lesion (LSIL; CIN 1)"
 PIT_01_03711_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
   Low-grade squamous intraepithelial lesion (LSIL; CIN 1)","Uterine cervix, colposcopic biopsy;
   Low-grade squamous intraepithelial lesion (LSIL; CIN 1)"
 PIT_01_02970_01.tiff,Uterine cervix,"Uterine cervix, polypectomy biopsy;
-  High-grade squamous intraepithelial lesion (HSIL; CIN 3)","Uterine cervix, punch biopsy;
+  High-grade squamous intraepithelial lesion (HSIL; CIN 3)","Uterine cervix, colposcopic biopsy;
   High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement"
 PIT_01_03031_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
   High-grade squamous intraepithelial lesion (HSIL; CIN 3)","Uterine cervix, colposcopic biopsy;
@@ -872,7 +978,7 @@ PIT_01_03146_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
   High-grade squamous intraepithelial lesion (HSIL; CIN 2)","Uterine cervix, colposcopic biopsy;
   High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement"
 PIT_01_03185_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
-  High-grade squamous intraepithelial lesion (HSIL; CIN 3)","Uterine cervix, punch biopsy;
+  High-grade squamous intraepithelial lesion (HSIL; CIN 3)","Uterine cervix, colposcopic biopsy;
   High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement"
 PIT_01_03242_01.tiff,Uterine cervix,"Uterine cervix, punch biopsy;
   High-grade squamous intraepithelial lesion (HSIL; CIN 2)","Uterine cervix, colposcopic biopsy;
@@ -883,36 +989,35 @@ PIT_01_03273_01.tiff,Uterine cervix,"Uterine cervix, punch biopsy;
 PIT_01_03333_01.tiff,Uterine cervix,"Uterine cervix, punch biopsy;
   High-grade squamous intraepithelial lesion (HSIL; CIN 2)
   with glandular involvement","Uterine cervix, colposcopic biopsy;
-  High-grade squamous intraepithelial lesion (HSIL; CIN 2)"
+  High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement"
 PIT_01_03372_01.tiff,Uterine cervix,"Uterine cervix, punch biopsy;
   High-grade squamous intraepithelial lesion (HSIL; CIN 3)","Uterine cervix, colposcopic biopsy;
   High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement"
 PIT_01_03429_01.tiff,Uterine cervix,"Uterine cervix, punch biopsy;
   High-grade squamous intraepithelial lesion (HSIL; CIN 2)","Uterine cervix, colposcopic biopsy;
-  High-grade squamous intraepithelial lesion (HSIL; CIN 2) with glandular involvement"
+  High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement"
 PIT_01_03431_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
   High-grade squamous intraepithelial lesion (HSIL; CIN 3)","Uterine cervix, colposcopic biopsy;
   High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement"
 PIT_01_03469_01.tiff,Uterine cervix,"Uterine cervix, punch biopsy;
   High-grade squamous intraepithelial lesion (HSIL; CIN 3)","Uterine cervix, colposcopic biopsy;
-  High-grade squamous intraepithelial lesion (HSIL; CIN 2)"
+  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)"
 PIT_01_03523_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
   High-grade squamous intraepithelial lesion (HSIL; CIN 2)","Uterine cervix, colposcopic biopsy;
-  1. Low-grade squamous intraepithelial lesion (LSIL; CIN 1)
-  2. High-grade squamous intraepithelial lesion (HSIL; CIN 2) with glandular involvement"
+  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)"
 PIT_01_03713_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
   High-grade squamous intraepithelial lesion (HSIL; CIN 3)","Uterine cervix, colposcopic biopsy;
-  High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement"
+  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)"
 PIT_01_03720_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
   High-grade squamous intraepithelial lesion (HSIL; CIN 3)","Uterine cervix, colposcopic biopsy;
-  Invasive squamous cell carcinoma"
+  High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement"
 PIT_01_03022_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
   High-grade squamous intraepithelial lesion (HSIL; CIN 3)
   with glandular involvement","Uterine cervix, colposcopic biopsy;
-  High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement"
+  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)"
 PIT_01_03112_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
   Invasive squamous cell carcinoma","Uterine cervix, colposcopic biopsy;
-  Invasive squamous cell carcinoma"
+  High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement"
 PIT_01_03123_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
   Invasive squamous cell carcinoma","Uterine cervix, colposcopic biopsy;
   High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement"
@@ -922,37 +1027,37 @@ PIT_01_03131_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
   High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement"
 PIT_01_03191_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
   Invasive squamous cell carcinoma","Uterine cervix, colposcopic biopsy;
-  Invasive squamous cell carcinoma"
+  High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement"
 PIT_01_03525_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
   Invasive squamous cell carcinoma","Uterine cervix, colposcopic biopsy;
-  Invasive squamous cell carcinoma"
+  High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement"
 PIT_01_03552_01.tiff,Uterine cervix,"Uterine cervix, punch biopsy;
   Invasive squamous cell carcinoma","Uterine cervix, colposcopic biopsy;
-  Invasive squamous cell carcinoma"
+  High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement"
 PIT_01_03165_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
   Endocervical adenocarcinoma in situ (AIS), HPV-associated","Uterine cervix, colposcopic biopsy;
   Low-grade squamous intraepithelial lesion (LSIL; CIN 1)"
-PIT_01_03307_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
-  Endocervical adenocarcinoma, HPV-associated, usual type","Uterine cervix, colposcopic biopsy;
-  Endocervical adenocarcinoma"
+PIT_01_03307_01.tiff,Stomach,"Uterine cervix, colposcopic biopsy;
+  Endocervical adenocarcinoma, HPV-associated, usual type","Stomach, endoscopic biopsy;
+  Adenocarcinoma, moderately differentiated"
 PIT_01_03585_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
   Chronic nonspecific cervicitis","Uterine cervix, colposcopic biopsy;
-  High-grade squamous intraepithelial lesion (HSIL; CIN 2) with glandular involvement"
+  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)"
 PIT_01_03712_01.tiff,Uterine cervix,"Uterine cervix, colposcopic biopsy;
   Chronic nonspecific cervicitis","Uterine cervix, colposcopic biopsy;
-  High-grade squamous intraepithelial lesion (HSIL; CIN 2) with glandular involvement"
+  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)"
 PIT_01_03758_01.tiff,Stomach,"Colon, colonoscopic biopsy;
   Mucinous carcinoma","Stomach, endoscopic biopsy;
   Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component"
-PIT_01_03828_01.tiff,Stomach,"Colon, colonoscopic biopsy;
-  Adenocarcinoma, moderately differentiated","Stomach, endoscopic biopsy;
-  Adenocarcinoma, moderately differentiated"
+PIT_01_03828_01.tiff,Colon,"Colon, colonoscopic biopsy;
+  Adenocarcinoma, moderately differentiated","Colon, colonoscopic biopsy;
+  Adenocarcinoma, moderately differentiated "
 PIT_01_03855_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated","Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated "
 PIT_01_03918_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Adenocarcinoma, well differentiated","Colon, colonoscopic biopsy;
-  Tubular adenoma with high grade dysplasia"
+  Adenocarcinoma, moderately differentiated "
 PIT_01_03931_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated","Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated "
@@ -961,31 +1066,32 @@ PIT_01_03963_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated "
 PIT_01_04044_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Adenocarcinoma, well differentiated","Colon, colonoscopic biopsy;
-  Tubular adenoma with high grade dysplasia"
+  Adenocarcinoma, moderately differentiated "
 PIT_01_04047_01.tiff,Colon,"Rectum, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated","Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated "
-PIT_01_04129_01.tiff,Rectum,"Colon, colonoscopic biopsy;
-  Adenocarcinoma, moderately differentiated","Rectum, colonoscopic biopsy;
-  Adenocarcinoma, poorly differentiated"
+PIT_01_04129_01.tiff,Colon,"Colon, colonoscopic biopsy;
+  Adenocarcinoma, moderately differentiated","Colon, colonoscopic biopsy;
+  Adenocarcinoma, moderately differentiated "
 PIT_01_04134_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated","Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated "
 PIT_01_04237_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated","Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated "
-PIT_01_04248_01.tiff,Rectum,"Rectum, colonoscopic biopsy;
-  Adenocarcinoma, moderately differentiated","Rectum, colonoscopic biopsy;
-  Adenocarcinoma, moderately differentiated"
+PIT_01_04248_01.tiff,Colon,"Rectum, colonoscopic biopsy;
+  Adenocarcinoma, moderately differentiated","Colon, colonoscopic biopsy;
+  Adenocarcinoma, moderately differentiated "
 PIT_01_04294_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Adenocarcinoma, well differentiated","Colon, colonoscopic biopsy;
-  Adenocarcinoma, well differentiated "
+  Adenocarcinoma, moderately differentiated "
 PIT_01_04298_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated","Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated "
 PIT_01_04359_01.tiff,Colon,"Colon, colonoscopic mucosal resection;
   Adenocarcinoma, well differentiated","Colon, colonoscopic mucosal resection;
-  Adenocarcinoma, well differentiated "
+  Adenocarcinoma, moderately differentiated 
+  Tubular adenoma with low grade dysplasia"
 PIT_01_04454_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated","Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated "
@@ -1004,18 +1110,18 @@ PIT_01_04575_01.tiff,Colon,"Colon, colonoscopic biopsy;
 PIT_01_04625_01.tiff,Colon,"Rectum, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated","Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated "
-PIT_01_04647_01.tiff,Colon,"Colon, colonoscopic biopsy;
-  Adenocarcinoma, well differentiated","Colon, colonoscopic biopsy;
-  Adenocarcinoma, moderately differentiated "
+PIT_01_04647_01.tiff,Stomach,"Colon, colonoscopic biopsy;
+  Adenocarcinoma, well differentiated","Stomach, endoscopic biopsy;
+  Adenocarcinoma, moderately differentiated"
 PIT_01_04652_01.tiff,Colon,"Rectum, colonoscopic biopsy;
   Adenocarcinoma, well differentiated","Colon, colonoscopic biopsy;
-  Adenocarcinoma, well differentiated "
+  Adenocarcinoma, moderately differentiated "
 PIT_01_04718_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated","Colon, colonoscopic biopsy;
-  Adenocarcinoma, well differentiated "
-PIT_01_04745_01.tiff,Rectum,"Colon, colonoscopic biopsy;
-  Adenocarcinoma, moderately differentiated","Rectum, colonoscopic biopsy;
-  Adenocarcinoma, moderately differentiated"
+  Adenocarcinoma, moderately differentiated "
+PIT_01_04745_01.tiff,Colon,"Colon, colonoscopic biopsy;
+  Adenocarcinoma, moderately differentiated","Colon, colonoscopic biopsy;
+  Adenocarcinoma, moderately differentiated "
 PIT_01_04761_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Adenocarcinoma, poorly differentiated","Colon, colonoscopic biopsy;
   Adenocarcinoma, poorly differentiated "
@@ -1024,67 +1130,72 @@ PIT_01_04787_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated "
 PIT_01_03738_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Tubular adenoma with low grade dysplasia","Colon, colonoscopic biopsy;
-  Tubular adenoma with low grade dysplasia"
+  Tubular adenoma with low grade dysplasia
+  Chronic nonspecific inflammation"
 PIT_01_03812_01.tiff,Colon,"Colon, colonoscopic biopsy;
-  Tubular adenoma with low grade dysplasia","Colon, colonoscopic biopsy;
+  Tubular adenoma with low grade dysplasia","Colon, colonoscopic mucosal resection;
   Tubular adenoma with low grade dysplasia"
 PIT_01_04048_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Tubular adenoma with low grade dysplasia","Colon, colonoscopic biopsy;
   Tubular adenoma with low grade dysplasia"
 PIT_01_04067_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Tubular adenoma with low grade dysplasia","Colon, colonoscopic biopsy;
+  Tubular adenoma with low grade dysplasia
   Chronic nonspecific inflammation"
 PIT_01_03945_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Tubular adenoma with high grade dysplasia","Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated "
 PIT_01_04497_01.tiff,Colon,"Colon, colonoscopic biopsy;
-  Tubular adenoma with high grade dysplasia","Colon, colonoscopic biopsy;
-  Tubular adenoma with high grade dysplasia"
+  Tubular adenoma with high grade dysplasia","Colon, colonoscopic mucosal resection;
+  Adenocarcinoma, moderately differentiated 
+  Tubular adenoma with low grade dysplasia"
 PIT_01_04613_01.tiff,Colon,"Colon, colonoscopic polypectomy;
-  Tubular adenoma with high grade dysplasia","Colon, colonoscopic biopsy;
-  Tubular adenoma with high grade dysplasia"
-PIT_01_04662_01.tiff,Rectum,"Colon, colonoscopic biopsy;
-  Tubular adenoma with high grade dysplasia","Rectum, colonoscopic biopsy;
-  Adenocarcinoma, moderately differentiated"
+  Tubular adenoma with high grade dysplasia","Colon, colonoscopic mucosal resection;
+  Adenocarcinoma, moderately differentiated "
+PIT_01_04662_01.tiff,Colon,"Colon, colonoscopic biopsy;
+  Tubular adenoma with high grade dysplasia","Colon, colonoscopic mucosal resection;
+  Adenocarcinoma, moderately differentiated 
+  Tubular adenoma with low grade dysplasia"
 PIT_01_03765_01.tiff,Colon,"Colon, colonoscopic mucosal resection;
-  Sessile serrated lesion","Colon, colonoscopic biopsy;
-  Traditional serrated adenoma"
+  Sessile serrated lesion","Colon, colonoscopic mucosal resection;
+  Tubular adenoma with low grade dysplasia
+  Chronic nonspecific inflammation"
 PIT_01_04178_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Chronic active colitis","Colon, colonoscopic biopsy;
-  Chronic active colitis"
-PIT_01_04463_01.tiff,Rectum,"Colon, colonoscopic biopsy;
-  Chronic active colitis","Rectum, colonoscopic biopsy;
+  Chronic nonspecific inflammation"
+PIT_01_04463_01.tiff,Colon,"Colon, colonoscopic biopsy;
+  Chronic active colitis","Colon, colonoscopic biopsy;
   Chronic nonspecific inflammation"
 PIT_01_04473_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Chronic active colitis","Colon, colonoscopic biopsy;
-  Chronic active colitis"
+  Chronic nonspecific inflammation"
 PIT_01_04568_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Chronic active colitis","Colon, colonoscopic biopsy;
-  Chronic active colitis"
+  Chronic nonspecific inflammation"
 PIT_01_04735_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Chronic active colitis","Colon, colonoscopic biopsy;
-  Chronic active colitis"
+  Chronic nonspecific inflammation"
 PIT_01_04741_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Chronic active colitis","Colon, colonoscopic biopsy;
-  Chronic active colitis"
-PIT_01_04034_01.tiff,Rectum,"Rectum, colonoscopic biopsy;
-  Chronic nonspecific inflammation","Rectum, colonoscopic biopsy;
+  Chronic nonspecific inflammation"
+PIT_01_04034_01.tiff,Colon,"Rectum, colonoscopic biopsy;
+  Chronic nonspecific inflammation","Colon, colonoscopic biopsy;
   Chronic nonspecific inflammation"
 PIT_01_04066_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Chronic nonspecific inflammation","Colon, colonoscopic biopsy;
   Chronic nonspecific inflammation"
 PIT_01_04078_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Inflammatory polyp","Colon, colonoscopic biopsy;
-  Chronic active colitis"
-PIT_01_04100_01.tiff,Colon,"Colon, colonoscopic biopsy;
-  Chronic nonspecific inflammation","Colon, colonoscopic biopsy;
-  Chronic active colitis"
+  Chronic nonspecific inflammation"
+PIT_01_04100_01.tiff,Stomach,"Colon, colonoscopic biopsy;
+  Chronic nonspecific inflammation","Stomach, endoscopic biopsy;
+  Adenocarcinoma, moderately differentiated"
 PIT_01_04190_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Chronic nonspecific inflammation","Colon, colonoscopic biopsy;
   Chronic nonspecific inflammation"
-PIT_01_04354_01.tiff,Colon,"Colon, colonoscopic biopsy;
-  Chronic nonspecific inflammation","Colon, colonoscopic biopsy;
-  Chronic active colitis"
+PIT_01_04354_01.tiff,Stomach,"Colon, colonoscopic biopsy;
+  Chronic nonspecific inflammation","Stomach, endoscopic biopsy;
+  Chronic gastritis"
 PIT_01_04451_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Chronic nonspecific inflammation","Colon, colonoscopic biopsy;
   Chronic nonspecific inflammation"
@@ -1096,34 +1207,34 @@ PIT_01_04569_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Chronic nonspecific inflammation"
 PIT_01_04729_01.tiff,Colon,"Rectum, colonoscopic biopsy;
   Chronic nonspecific inflammation","Colon, colonoscopic biopsy;
-  Chronic active colitis"
-PIT_01_04205_01.tiff,Rectum,"Rectum, colonoscopic biopsy;
-  Gastrointestinal stromal tumor","Rectum, colonoscopic biopsy;
-  Gastrointestinal stromal tumor"
+  Chronic nonspecific inflammation"
+PIT_01_04205_01.tiff,Uterine cervix,"Rectum, colonoscopic biopsy;
+  Gastrointestinal stromal tumor","Uterine cervix, colposcopic biopsy;
+  Low-grade squamous intraepithelial lesion (LSIL; CIN 1)"
 PIT_01_04674_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Malignant lymphoma, extranodal marginal zone B cell lymphoma","Colon, colonoscopic biopsy;
-  Chronic active colitis"
-PIT_01_04135_01.tiff,Rectum,"Rectum, colonoscopic biopsy;
-  Neuroendocrine tumor, grade 1","Rectum, colonoscopic biopsy;
-  Neuroendocrine tumor G1"
-PIT_01_04291_01.tiff,Rectum,"Colon, colonoscopic submucosal dissection;
-  Neuroendocrine tumor, G1","Rectum, colonoscopic biopsy;
-  Neuroendocrine tumor G1"
-PIT_01_04628_01.tiff,Colon,"Rectum, colonoscopic biopsy;
-  Squamous cell carcinoma","Colon, colonoscopic biopsy;
-  Adenocarcinoma, poorly differentiated "
+  Chronic nonspecific inflammation"
+PIT_01_04135_01.tiff,Stomach,"Rectum, colonoscopic biopsy;
+  Neuroendocrine tumor, grade 1","Stomach, endoscopic biopsy;
+  Tubular adenoma with low grade dysplasia"
+PIT_01_04291_01.tiff,Stomach,"Colon, colonoscopic submucosal dissection;
+  Neuroendocrine tumor, G1","Stomach, endoscopic biopsy;
+  Tubular adenoma with low grade dysplasia"
+PIT_01_04628_01.tiff,Uterine cervix,"Rectum, colonoscopic biopsy;
+  Squamous cell carcinoma","Uterine cervix, colposcopic biopsy;
+  High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement"
 PIT_01_04804_01.tiff,Lung,"Lung, biopsy;
   Non-small cell carcinoma, favor adenocarcinoma ","Lung, biopsy;
-  Adenocarcinoma"
+  Non-small cell carcinoma, favor adenocarcinoma"
 PIT_01_04883_01.tiff,Lung,"Lung, biopsy;
   Adenocarcinoma ","Lung, biopsy;
-  Adenocarcinoma"
+  Non-small cell carcinoma, favor adenocarcinoma"
 PIT_01_04927_01.tiff,Lung,"Lung, biopsy;
   Adenocarcinoma ","Lung, biopsy;
   Adenocarcinoma"
 PIT_01_05097_01.tiff,Lung,"Lung, biopsy;
   Invasive mucinous adenocarcinoma ","Lung, biopsy;
-  Invasive mucinous adenocarcinoma"
+  Adenocarcinoma"
 PIT_01_05114_01.tiff,Lung,"Lung, biopsy;
   Adenocarcinoma ","Lung, biopsy;
   Adenocarcinoma"
@@ -1144,7 +1255,7 @@ PIT_01_05273_01.tiff,Lung,"Lung, biopsy;
   Non-small cell carcinoma, favor adenocarcinoma"
 PIT_01_05462_01.tiff,Lung,"Lung, biopsy;
   Adenocarcinoma ","Lung, biopsy;
-  Adenocarcinoma"
+  Non-small cell carcinoma, favor adenocarcinoma"
 PIT_01_05469_01.tiff,Lung,"Lung, biopsy;
   Adenocarcinoma ","Lung, biopsy;
   Adenocarcinoma"
@@ -1156,164 +1267,176 @@ PIT_01_05498_01.tiff,Lung,"Lung, biopsy;
   Adenocarcinoma"
 PIT_01_05552_01.tiff,Lung,"Lung, biopsy;
   Adenocarcinoma ","Lung, biopsy;
-  Adenocarcinoma"
+  Non-small cell carcinoma, favor adenocarcinoma"
 PIT_01_05651_01.tiff,Lung,"Lung, biopsy;
   Adenocarcinoma ","Lung, biopsy;
   Adenocarcinoma"
-PIT_01_05653_01.tiff,Breast,"Lung, biopsy;
-  Adenocarcinoma ","Breast, biopsy;
-  Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1)"
+PIT_01_05653_01.tiff,Lung,"Lung, biopsy;
+  Adenocarcinoma ","Lung, biopsy;
+  Adenocarcinoma"
 PIT_01_04858_01.tiff,Lung,"Lung, biopsy;
   Squamous cell carcinoma  ","Lung, biopsy;
-  Squamous cell carcinoma"
+  1. Non-small cell carcinoma, favor adenocarcinoma
+  2. Squamous cell carcinoma"
 PIT_01_04865_01.tiff,Lung,"Lung, biopsy;
   Non-small cell carcinoma, favor squamous cell carcinoma  ","Lung, biopsy;
-  Non-small cell carcinoma, favor adenocarcinoma"
+  1. Non-small cell carcinoma, favor adenocarcinoma
+  2. Squamous cell carcinoma"
 PIT_01_04888_01.tiff,Lung,"Lung, biopsy;
   Non-small cell carcinoma, favor squamous cell carcinoma  ","Lung, biopsy;
-  Non-small cell carcinoma, favor adenocarcinoma"
+  1. Non-small cell carcinoma, favor adenocarcinoma
+  2. Squamous cell carcinoma"
 PIT_01_04898_01.tiff,Lung,"Lung, biopsy;
   Squamous cell carcinoma  ","Lung, biopsy;
-  Squamous cell carcinoma"
+  1. Non-small cell carcinoma, favor adenocarcinoma
+  2. Squamous cell carcinoma"
 PIT_01_04945_01.tiff,Lung,"Lung, biopsy;
   Squamous cell carcinoma  ","Lung, biopsy;
-  Squamous cell carcinoma"
+  1. Non-small cell carcinoma, favor adenocarcinoma
+  2. Squamous cell carcinoma"
 PIT_01_05078_01.tiff,Lung,"Lung, biopsy;
   Non-small cell carcinoma, favor squamous cell carcinoma  ","Lung, biopsy;
-  Non-small cell carcinoma, favor adenocarcinoma"
+  1. Non-small cell carcinoma, favor adenocarcinoma
+  2. Squamous cell carcinoma"
 PIT_01_05082_01.tiff,Uterine cervix,"Lung, biopsy;
   Squamous cell carcinoma  ","Uterine cervix, colposcopic biopsy;
-  Invasive squamous cell carcinoma"
+  High-grade squamous intraepithelial lesion (HSIL; CIN 3) with glandular involvement"
 PIT_01_05266_01.tiff,Lung,"Lung, biopsy;
   Squamous cell carcinoma  ","Lung, biopsy;
-  Squamous cell carcinoma"
+  1. Non-small cell carcinoma, favor adenocarcinoma
+  2. Squamous cell carcinoma"
 PIT_01_05333_01.tiff,Lung,"Lung, biopsy;
   Squamous cell carcinoma  ","Lung, biopsy;
-  Squamous cell carcinoma"
+  1. Non-small cell carcinoma, favor adenocarcinoma
+  2. Squamous cell carcinoma"
 PIT_01_05432_01.tiff,Lung,"Lung, biopsy;
   Squamous cell carcinoma  ","Lung, biopsy;
-  Squamous cell carcinoma"
+  1. Non-small cell carcinoma, favor adenocarcinoma
+  2. Squamous cell carcinoma"
 PIT_01_05566_01.tiff,Lung,"Lung, biopsy;
   Non-small cell carcinoma, favor squamous cell carcinoma  ","Lung, biopsy;
-  Squamous cell carcinoma"
+  1. Non-small cell carcinoma, favor adenocarcinoma
+  2. Squamous cell carcinoma"
 PIT_01_05611_01.tiff,Lung,"Lung, biopsy;
   Squamous cell carcinoma  ","Lung, biopsy;
-  Squamous cell carcinoma"
+  1. Non-small cell carcinoma, favor adenocarcinoma
+  2. Squamous cell carcinoma"
 PIT_01_05619_01.tiff,Lung,"Lung, biopsy;
   Squamous cell carcinoma  ","Lung, biopsy;
-  Squamous cell carcinoma"
+  1. Non-small cell carcinoma, favor adenocarcinoma
+  2. Squamous cell carcinoma"
 PIT_01_05659_01.tiff,Lung,"Lung, biopsy;
   Non-small cell carcinoma, favor squamous cell carcinoma  ","Lung, biopsy;
-  Non-small cell carcinoma, favor adenocarcinoma"
+  1. Non-small cell carcinoma, favor adenocarcinoma
+  2. Squamous cell carcinoma"
 PIT_01_04885_01.tiff,Lung,"Lung, biopsy;
   Small cell carcinoma","Lung, biopsy;
-  Small cell carcinoma"
+  Non-small cell carcinoma, favor adenocarcinoma"
 PIT_01_04984_01.tiff,Lung,"Lung, biopsy;
   Small cell carcinoma","Lung, biopsy;
-  Small cell carcinoma"
+  Non-small cell carcinoma, favor adenocarcinoma"
 PIT_01_05102_01.tiff,Lung,"Lung, biopsy;
   Small cell carcinoma","Lung, biopsy;
-  Small cell carcinoma"
+  Non-small cell carcinoma, favor adenocarcinoma"
 PIT_01_05527_01.tiff,Lung,"Lung, biopsy;
   Small cell carcinoma","Lung, biopsy;
-  Small cell carcinoma"
+  Non-small cell carcinoma, favor adenocarcinoma"
 PIT_01_05537_01.tiff,Lung,"Lung, biopsy;
   Small cell carcinoma","Lung, biopsy;
-  Small cell carcinoma"
+  Non-small cell carcinoma, favor adenocarcinoma"
 PIT_01_04897_01.tiff,Lung,"Lung, biopsy;
   Chronic granulomatous inflammation with necrosis","Lung, biopsy;
-  Chronic granulomatous inflammation with necrosis"
+  Non-small cell carcinoma, favor adenocarcinoma"
 PIT_01_05633_01.tiff,Lung,"Lung, biopsy;
   1. Chronic granulomatous inflammation without necrosis
   2. Fungal infection, morphologically consistent with cryptococcus spp.","Lung, biopsy;
-  Fungal infection morphologically consistent with cryptococcus spp."
+  Non-small cell carcinoma, favor adenocarcinoma"
 PIT_01_04863_01.tiff,Lung,"Lung, biopsy;
   No evidence of malignancy or granuloma","Lung, biopsy;
-  No evidence of malignancy or granuloma"
+  Non-small cell carcinoma, favor adenocarcinoma"
 PIT_01_05184_01.tiff,Lung,"Lung, biopsy;
   1. No evidence of malignancy or granuloma
   2. Chronic inflammation with organizing fibrosis","Lung, biopsy;
-  No evidence of malignancy or granuloma"
+  Non-small cell carcinoma, favor adenocarcinoma"
 PIT_01_05207_01.tiff,Lung,"Lung, biopsy;
   No evidence of malignancy or granuloma","Lung, biopsy;
-  Chronic granulomatous inflammation with necrosis"
+  Non-small cell carcinoma, favor adenocarcinoma"
 PIT_01_05374_01.tiff,Lung,"Lung, biopsy;
   1. No evidence of malignancy or granuloma
   2. Chronic inflammation with organizing fibrosis","Lung, biopsy;
-  1. No evidence of malignancy or granuloma
-  2. Chronic inflammation organizing fibrosis"
+  Non-small cell carcinoma, favor adenocarcinoma"
 PIT_01_05103_01.tiff,Lung,"Lung, biopsy;
   Fungal ball, morphologically consistent with Aspergillus spp.","Lung, biopsy;
-  No evidence of malignancy or granuloma"
+  Non-small cell carcinoma, favor adenocarcinoma"
 PIT_01_05749_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 100%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 2, tumor volume: 15%"
 PIT_01_05771_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 70%), tumor volume: 80%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 1 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_05945_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 30%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_06029_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 100%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 15%"
 PIT_01_06046_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 100%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 4, tumor volume: 15%"
 PIT_01_06126_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 95%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_06518_01.tiff,Prostate,"Prostate, biopsy; 
  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 25%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_06529_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 100%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_06601_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 60%), tumor volume: 20%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_06635_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 80%), tumor volume: 80%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 2, tumor volume: 15%"
 PIT_01_06024_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 100%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 4, tumor volume: 15%"
 PIT_01_06100_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 30%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_06107_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 10%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_06123_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 70%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_06133_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 40%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 4, tumor volume: 15%"
 PIT_01_06156_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 90%), tumor volume: 60%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 4, tumor volume: 15%"
 PIT_01_06167_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 100%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 15%"
 PIT_01_06677_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 60%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 15%"
 PIT_01_06680_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 100%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_06715_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 80%), tumor volume: 50%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_06721_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 60%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_06724_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 70%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_06725_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 70%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_06737_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
@@ -1334,10 +1457,10 @@ PIT_01_06816_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_06825_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 40%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_06843_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 80%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_06870_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 40%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
@@ -1352,49 +1475,49 @@ PIT_01_06894_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_06898_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 9 (5+4), grade group 5, tumor volume: 100%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 4, tumor volume: 15%"
 PIT_01_06911_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 80%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_06918_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 90%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_06940_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_06945_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 20%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 15%"
 PIT_01_06952_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 70%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_06966_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 70%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_06978_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 50%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 1 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_06983_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 4 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 4, tumor volume: 15%"
 PIT_01_07011_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 70%), tumor volume: 30%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 4, tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_07033_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 20%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 1 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_07042_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_07088_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 80%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_07094_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 10%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_07151_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 30%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_07173_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 30%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
@@ -1406,13 +1529,13 @@ PIT_01_07231_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_07288_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume:  60%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 2, tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_07320_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 20%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 15%"
 PIT_01_07322_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 40%), tumor volume: 80%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 2, tumor volume: 15%"
 PIT_01_07331_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 50%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
@@ -1421,7 +1544,7 @@ PIT_01_07339_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 15%"
 PIT_01_07341_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 80%), tumor volume: 30%","Prostate, biopsy;
-  No tumor present"
+  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 15%"
 PIT_01_07349_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
@@ -1433,13 +1556,13 @@ PIT_01_07380_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_07384_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 70%), tumor volume: 30%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 1 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_07386_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 80%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_07392_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: 80%), tumor volume: 70%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_07398_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 30%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
@@ -1451,22 +1574,22 @@ PIT_01_07444_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_07456_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 80%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_07502_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 90%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_07509_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 90%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 1 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_07550_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 4, tumor volume: 15%"
 PIT_01_07562_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 20%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_07570_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 20%), tumor volume: 90%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 4 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 4, tumor volume: 15%"
 PIT_01_07603_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 5%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
@@ -1475,7 +1598,7 @@ PIT_01_07634_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 15%"
 PIT_01_07635_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_07641_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume:  70%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
@@ -1484,19 +1607,19 @@ PIT_01_07642_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_06709_01.tiff,Prostate,"Prostate, biopsy;
   No tumor present","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_06749_01.tiff,Prostate,"Prostate, biopsy;
   No tumor present","Prostate, biopsy;
-  No tumor present"
+  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 1 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_06824_01.tiff,Prostate,"Prostate, biopsy;
   No tumor present","Prostate, biopsy;
   No tumor present"
 PIT_01_06921_01.tiff,Prostate,"Prostate, biopsy;
   No tumor present","Prostate, biopsy;
-  No tumor present"
+  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_06951_01.tiff,Prostate,"Prostate, biopsy;
   No tumor present","Prostate, biopsy;
-  No tumor present"
+  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 1, tumor volume: 15%"
 PIT_01_07061_01.tiff,Prostate,"Prostate, biopsy;
   No tumor present","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
@@ -1508,16 +1631,16 @@ PIT_01_07136_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_07178_01.tiff,Prostate,"Prostate, biopsy;
   No tumor present","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_07393_01.tiff,Prostate,"Prostate, biopsy;
   No tumor present","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_07498_01.tiff,Prostate,"Prostate, biopsy;
   No tumor present","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 1 (Gleason pattern 4: ), tumor volume: 15%"
 PIT_01_07629_01.tiff,Prostate,"Prostate, biopsy;
   No tumor present","Prostate, biopsy;
-  No tumor present"
+  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 15%"
 PIT_01_05881_01.tiff,Prostate,"Prostate, biopsy;
   No tumor present","Prostate, biopsy;
   No tumor present"
@@ -1535,35 +1658,34 @@ PIT_01_07422_01.tiff,Prostate,"Prostate, biopsy;
   No tumor present"
 PIT_01_08383_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Adenocarcinoma, well differentiated ","Stomach, endoscopic biopsy;
-  Adenocarcinoma, well differentiated"
+  Adenocarcinoma, moderately differentiated"
 PIT_01_09431_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Adenocarcinoma, well differentiated ","Stomach, endoscopic biopsy;
-  Chronic active gastritis interstinal metaplasia"
+  Chronic gastritis"
 PIT_01_09487_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Adenocarcinoma, well differentiated ","Stomach, endoscopic biopsy;
-  Adenocarcinoma, well differentiated"
+  Adenocarcinoma, moderately differentiated"
 PIT_01_09660_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Adenocarcinoma, well differentiated ","Stomach, endoscopic biopsy;
-  Adenocarcinoma, well differentiated"
+  Adenocarcinoma, moderately differentiated"
 PIT_01_07842_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Adenocarcinoma, well differentiated ","Stomach, endoscopic biopsy;
-  Adenocarcinoma, well differentiated"
+  Adenocarcinoma, moderately differentiated"
 PIT_01_08158_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Adenocarcinoma, well differentiated ","Stomach, endoscopic biopsy;
-  1. Adenocarcinoma, moderately differentiated
-  2. Tubular adenoma with low grade dysplasia"
+  Adenocarcinoma, moderately differentiated"
 PIT_01_08441_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Adenocarcinoma, well differentiated ","Stomach, endoscopic biopsy;
   Adenocarcinoma, moderately differentiated"
 PIT_01_08631_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Adenocarcinoma, well differentiated ","Stomach, endoscopic biopsy;
-  Tubular adenoma with low grade dysplasia"
+  Adenocarcinoma, moderately differentiated"
 PIT_01_08743_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Adenocarcinoma, well differentiated ","Stomach, endoscopic biopsy;
   Tubular adenoma with low grade dysplasia"
 PIT_01_09004_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Adenocarcinoma, well differentiated ","Stomach, endoscopic biopsy;
-  Adenocarcinoma, well differentiated"
+  Adenocarcinoma, moderately differentiated"
 PIT_01_08022_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Adenocarcinoma, well differentiated ","Stomach, endoscopic biopsy;
   Adenocarcinoma, moderately differentiated"
@@ -1596,13 +1718,13 @@ PIT_01_08662_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Adenocarcinoma, moderately differentiated"
 PIT_01_09026_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Adenocarcinoma, moderately differentiated ","Stomach, endoscopic biopsy;
-  Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component"
+  Adenocarcinoma, moderately differentiated"
 PIT_01_09120_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Adenocarcinoma, moderately differentiated ","Stomach, endoscopic biopsy;
-  Adenocarcinoma, well differentiated"
+  Adenocarcinoma, moderately differentiated"
 PIT_01_09175_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Adenocarcinoma, moderately differentiated ","Stomach, endoscopic biopsy;
-  Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component"
+  Adenocarcinoma, moderately differentiated"
 PIT_01_09400_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Adenocarcinoma, moderately differentiated ","Stomach, endoscopic biopsy;
   Adenocarcinoma, moderately differentiated"
@@ -1614,7 +1736,7 @@ PIT_01_07707_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Adenocarcinoma, moderately differentiated"
 PIT_01_07993_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Adenocarcinoma, poorly differentiated ","Stomach, endoscopic biopsy;
-  Adenocarcinoma, moderately differentiated"
+  Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component"
 PIT_01_09187_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Adenocarcinoma, poorly differentiated ","Stomach, endoscopic biopsy;
   Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component"
@@ -1665,7 +1787,7 @@ PIT_01_07952_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Tubular adenoma with low grade dysplasia"
 PIT_01_08057_01.tiff,Colon,"Stomach, endoscopic biopsy;
   Tubular adenoma with low grade dysplasia","Colon, colonoscopic biopsy;
-  Adenocarcinoma, well differentiated "
+  Adenocarcinoma, moderately differentiated "
 PIT_01_08152_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Tubular adenoma with low grade dysplasia","Stomach, endoscopic biopsy;
   Tubular adenoma with low grade dysplasia"
@@ -1695,13 +1817,13 @@ PIT_01_08780_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Tubular adenoma with low grade dysplasia"
 PIT_01_08839_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Tubular adenoma with low grade dysplasia","Stomach, endoscopic biopsy;
-  Tubular adenoma with low grade dysplasia"
+  Adenocarcinoma, moderately differentiated"
 PIT_01_08884_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Tubular adenoma with low grade dysplasia","Stomach, endoscopic biopsy;
   Tubular adenoma with low grade dysplasia"
 PIT_01_08972_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Tubular adenoma with low grade dysplasia","Stomach, endoscopic biopsy;
-  Tubular adenoma with low grade dysplasia"
+  Adenocarcinoma, moderately differentiated"
 PIT_01_09029_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Tubular adenoma with low grade dysplasia","Stomach, endoscopic biopsy;
   Tubular adenoma with low grade dysplasia"
@@ -1710,7 +1832,7 @@ PIT_01_09062_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Tubular adenoma with low grade dysplasia"
 PIT_01_09218_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Tubular adenoma with low grade dysplasia","Stomach, endoscopic biopsy;
-  Adenocarcinoma, well differentiated"
+  Adenocarcinoma, moderately differentiated"
 PIT_01_09227_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Tubular adenoma with low grade dysplasia","Stomach, endoscopic biopsy;
   Tubular adenoma with low grade dysplasia"
@@ -1722,28 +1844,28 @@ PIT_01_09317_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Tubular adenoma with low grade dysplasia"
 PIT_01_09162_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Tubular adenoma with low grade dysplasia","Stomach, endoscopic biopsy;
-  Tubular adenoma with low grade dysplasia"
+  Adenocarcinoma, moderately differentiated"
 PIT_01_08392_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Tubular adenoma with high grade dysplasia","Stomach, endoscopic biopsy;
-  Adenocarcinoma, well differentiated"
+  Adenocarcinoma, moderately differentiated"
 PIT_01_08249_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Extranodal marginal zone B cell lymphoma of MALT type","Stomach, endoscopic biopsy;
-  Extranodal marginal zone B cell lymphoma of MALT type"
+  Chronic gastritis"
 PIT_01_08307_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Extranodal marginal zone B cell lymphoma of MALT type","Stomach, endoscopic biopsy;
-  Extranodal marginal zone B cell lymphoma of MALT type"
+  Chronic gastritis"
 PIT_01_08801_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Extranodal marginal zone B cell lymphoma of MALT type","Stomach, endoscopic biopsy;
-  Extranodal marginal zone B cell lymphoma of MALT type"
+  Chronic gastritis"
 PIT_01_09239_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Extranodal marginal zone B cell lymphoma of MALT type","Stomach, endoscopic biopsy;
-  Extranodal marginal zone B cell lymphoma of MALT type"
+  Chronic gastritis"
 PIT_01_09405_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Extranodal marginal zone B cell lymphoma of MALT type","Stomach, endoscopic biopsy;
-  Extranodal marginal zone B cell lymphoma of MALT type"
+  Chronic gastritis"
 PIT_01_09626_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Extranodal marginal zone B cell lymphoma of MALT type","Stomach, endoscopic biopsy;
-  Extranodal marginal zone B cell lymphoma of MALT type"
+  Chronic gastritis"
 PIT_01_08135_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Chronic gastritis","Stomach, endoscopic biopsy;
   Chronic gastritis"
@@ -1752,7 +1874,7 @@ PIT_01_08461_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Chronic gastritis"
 PIT_01_08758_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Chronic gastritis","Stomach, endoscopic biopsy;
-  Chronic gastritis"
+  Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component"
 PIT_01_08897_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Chronic gastritis
    with 1) interstinal metaplasia
@@ -1762,15 +1884,15 @@ PIT_01_08995_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Chronic gastritis
    with 1) interstinal metaplasia
         2) foveolar epithelial hyperplasia","Stomach, endoscopic biopsy;
-  Chronic gastritis"
+  Tubular adenoma with low grade dysplasia"
 PIT_01_09281_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Chronic gastritis
    with interstinal metaplasia","Stomach, endoscopic biopsy;
-  Chronic gastritis"
+  Tubular adenoma with low grade dysplasia"
 PIT_01_09465_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Chronic gastritis
    with interstinal metaplasia","Stomach, endoscopic biopsy;
-  Chronic gastritis"
+  Tubular adenoma with low grade dysplasia"
 PIT_01_09577_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Chronic gastritis
    with interstinal metaplasia","Stomach, endoscopic biopsy;
@@ -1778,7 +1900,8 @@ PIT_01_09577_01.tiff,Stomach,"Stomach, endoscopic biopsy;
 PIT_01_07772_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Chronic active gastritis
    with interstinal metaplasia","Stomach, endoscopic biopsy;
-  Chronic active gastritis interstinal metaplasia"
+  1. Tubular adenoma with low grade dysplasia
+  2. Chronic gastritis"
 PIT_01_08217_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Chronic active gastritis
    with erosion","Stomach, endoscopic biopsy;
@@ -1786,64 +1909,66 @@ PIT_01_08217_01.tiff,Stomach,"Stomach, endoscopic biopsy;
 PIT_01_08412_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Chronic active gastritis
    with foveolar epithelial hyperplasia","Stomach, endoscopic biopsy;
-  Chronic active gastritis foveolar epithelial hyperplasia"
+  Chronic gastritis"
 PIT_01_08448_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Chronic active gastritis
    with interstinal metaplasia","Stomach, endoscopic biopsy;
-  Chronic gastritis"
+  Tubular adenoma with low grade dysplasia"
 PIT_01_09047_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Chronic active gastritis
    with interstinal metaplasia","Stomach, endoscopic biopsy;
-  1. Tubular adenoma with low grade dysplasia
-  2. Chronic active gastritis interstinal metaplasia"
+  Tubular adenoma with low grade dysplasia"
 PIT_01_07750_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Malignant lymphoma","Stomach, endoscopic biopsy;
-  Malignant lymphoma"
-PIT_01_08651_01.tiff,Prostate,"Stomach, biopsy;
-  Small cell carcinoma","Prostate, biopsy;
-  Small cell carcinoma"
+  Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component"
+PIT_01_08651_01.tiff,Lung,"Stomach, biopsy;
+  Small cell carcinoma","Lung, biopsy;
+  Non-small cell carcinoma, favor adenocarcinoma"
 PIT_01_09731_01.tiff,Stomach,"Stomach, endoscopic biopsy;
   Small cell carcinoma","Stomach, endoscopic biopsy;
-  Small cell carcinoma"
+  Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component"
 PIT_01_08908_01.tiff,Lung,"Stomach, endoscopic biopsy;
   Squamous cell carcinoma","Lung, biopsy;
-  Squamous cell carcinoma"
+  1. Non-small cell carcinoma, favor adenocarcinoma
+  2. Squamous cell carcinoma"
 PIT_02_00142_01.tiff,Lung,"Lung, biopsy;
   Adenocarcinoma","Lung, biopsy;
   Adenocarcinoma"
-PIT_02_00247_01.tiff,Lung,"Lung, biopsy;
-  Squamous cell carcinoma","Lung, biopsy;
-  Squamous cell carcinoma"
+PIT_02_00247_01.tiff,Urinary bladder,"Lung, biopsy;
+  Squamous cell carcinoma","Urinary bladder, transurethral resection;
+  Invasive urothelial carcinoma, with involvement of muscle proper
+  Note) The specimen includes muscle proper."
 PIT_02_00267_01.tiff,Lung,"Lung, biopsy;
   Chronic granulomatous inflammation without necrosis","Lung, biopsy;
-  Chronic granulomatous inflammation with necrosis"
+  Non-small cell carcinoma, favor adenocarcinoma"
 PIT_02_00322_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated","Colon, colonoscopic biopsy;
   Adenocarcinoma, moderately differentiated "
 PIT_02_00330_01.tiff,Colon,"Colon, colonoscopic biopsy;
-  Tubular adenoma with low grade dysplasia","Colon, colonoscopic biopsy;
+  Tubular adenoma with low grade dysplasia","Colon, colonoscopic mucosal resection;
   Tubular adenoma with low grade dysplasia"
 PIT_02_00217_01.tiff,Colon,"Colon, colonoscopic biopsy;
-  Tubular adenoma with low grade dysplasia","Colon, colonoscopic biopsy;
+  Tubular adenoma with low grade dysplasia","Colon, colonoscopic mucosal resection;
+  Adenocarcinoma, moderately differentiated 
   Tubular adenoma with low grade dysplasia"
 PIT_02_00279_01.tiff,Colon,"Colon, colonoscopic biopsy;
-  Tubular adenoma with low grade dysplasia","Colon, colonoscopic biopsy;
+  Tubular adenoma with low grade dysplasia","Colon, colonoscopic mucosal resection;
   Tubular adenoma with low grade dysplasia"
 PIT_02_00192_01.tiff,Colon,"Colon, colonoscopic biopsy;
-  Tubular adenoma with low grade dysplasia","Colon, colonoscopic biopsy;
-  Tubulovillous adenoma with low grade dysplasia"
+  Tubular adenoma with low grade dysplasia","Colon, colonoscopic mucosal resection;
+  Tubular adenoma with low grade dysplasia"
 PIT_02_00134_01.tiff,Colon,"Colon, colonoscopic biopsy;
-  Tubular adenoma with low grade dysplasia","Colon, colonoscopic biopsy;
+  Tubular adenoma with low grade dysplasia","Colon, colonoscopic mucosal resection;
   Tubular adenoma with low grade dysplasia"
 PIT_02_00032_01.tiff,Colon,"Colon, colonoscopic biopsy;
   Hyperplastic polyp","Colon, colonoscopic biopsy;
-  Hyperplastic polyp"
+  Tubular adenoma with low grade dysplasia"
 PIT_02_00059_01.tiff,Colon,"Colon, colonoscopic biopsy;
-  Sessile serrated lesion","Colon, colonoscopic biopsy;
-  Hyperplastic polyp"
+  Sessile serrated lesion","Colon, colonoscopic mucosal resection;
+  Tubular adenoma with low grade dysplasia"
 PIT_02_00036_01.tiff,Breast,"Breast, biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)","Breast, biopsy;
-  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
+  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)"
 PIT_02_00305_01.tiff,Breast,"Breast, biopsy;
   Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 3, Mitoses: 1)","Breast, biopsy;
   Invasive carcinoma of no special type, grade III (Tubule formation: 3, Nuclear grade: 3, Mitoses: 2)"
@@ -1851,8 +1976,8 @@ PIT_02_00048_01.tiff,Breast,"Breast, biopsy;
   1. Invasive lobular carcinoma
   2. Lobular carcinoma in situ","Breast, biopsy;
   Ductal carcinoma in situ
-  - Type: Papillary
-  - Nuclear grade: High
+  - Type: Solid
+  - Nuclear grade: Low
   - Necrosis: Present (Focal)"
 PIT_02_00275_01.tiff,Breast,"Breast, biopsy;
   Ductal carcinoma in situ
@@ -1860,18 +1985,18 @@ PIT_02_00275_01.tiff,Breast,"Breast, biopsy;
   - Nuclear grade: High
   - Necrosis: Present (Comedo-type) ","Breast, biopsy;
   Ductal carcinoma in situ
-  - Type: Cribriform and solid
-  - Nuclear grade: High
+  - Type: Solid
+  - Nuclear grade: Low
   - Necrosis: Present (Focal)"
 PIT_02_00028_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 5%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 10 (5+5), grade group 5, tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 15%"
 PIT_02_00286_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 30%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 4 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 4, tumor volume: 15%"
 PIT_02_00303_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 50%","Prostate, biopsy;
-  Acinar adenocarcinoma, Gleason's score 7 (4+3), grade group 3 (Gleason pattern 4: ), tumor volume: 15%"
+  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 2, tumor volume: 15%"
 PIT_02_00261_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 10 (5+5), grade group 5, tumor volume: 50%","Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 15%"
@@ -1889,13 +2014,19 @@ PIT_02_00101_01.tiff,Prostate,"Prostate, biopsy;
   Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 15%"
 PIT_03_00750_01.tiff,Lung,"Lung, biopsy;
   Adenocarcinoma","Lung, biopsy;
-  Adenocarcinoma"
-PIT_03_00132_01.tiff,Lung,"Lung, biopsy;
-  Invasive mucinous adenocarcinoma","Lung, biopsy;
-  Adenocarcinoma"
+  Non-small cell carcinoma, favor adenocarcinoma"
+PIT_03_00132_01.tiff,Breast,"Lung, biopsy;
+  Invasive mucinous adenocarcinoma","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
 PIT_03_00417_01.tiff,Lung,"Lung, biopsy;
   Non-small cell carcinoma, favor adenocarcinoma","Lung, biopsy;
-  Squamous cell carcinoma"
-PIT_03_01467_01.tiff,Lung,"Lung, biopsy;
-  Chronic granulomatous inflammation without necrosis","Lung, biopsy;
-  Chronic granulomatous inflammation without necrosis"
+  Non-small cell carcinoma, favor adenocarcinoma"
+PIT_03_01467_01.tiff,Breast,"Lung, biopsy;
+  Chronic granulomatous inflammation without necrosis","Breast, biopsy;
+  Ductal carcinoma in situ
+  - Type: Solid
+  - Nuclear grade: Low
+  - Necrosis: Present (Focal)"
