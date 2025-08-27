@@ -12,7 +12,7 @@ venv/
 *.log
 
 # data
-to e/data/feature_cache/*
+toe/data/feature_cache/*
 
 # pretrained models
 toe/Prism/*
