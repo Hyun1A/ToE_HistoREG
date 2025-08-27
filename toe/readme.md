@@ -14,7 +14,7 @@ conda create -n toe python=3.10.18
 Install pytorch
 <pre>
 pip install torch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0 --index-url https://download.pytorch.org/whl/cu121
-<pre>
+</pre>
 
 Please install packages in requirements.txt
 <pre>
