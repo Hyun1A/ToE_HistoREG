@@ -18,19 +18,19 @@ requests==2.32.4
 PyYAML==6.0.2
 numpy==1.26.4
 scipy==1.10.1
-pandas==2.3.1
+scikit-image==0.21.0
 scikit-learn==1.7.1
+scispacy==0.5.4
+pandas==2.3.1
 matplotlib==3.10.3
 opencv-python==4.11.0.86
 pillow==11.0.0
 pyarrow==20.0.0
 openpyxl==3.1.5
-scikit-image==0.25.2
 openslide-python==1.4.2
 wandb==0.21.0
 spacy==3.7.5
-scispacy==0.5.4
-en_core_sci_lg @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_lg-0.5.4.tar.gz
 jupyterlab==4.4.4
 ipykernel==6.29.5
 ipython==8.37.0
+en_core_sci_lg @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_lg-0.5.4.tar.gz
