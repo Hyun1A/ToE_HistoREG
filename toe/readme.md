@@ -69,7 +69,7 @@ The option to specify in practice is `raw_feature_path`, the path to extracted t
 bash test_hier_cls_mlp.sh
 </pre>
 
-**For test without training**, we provided checkpoints and test slide features through [https://huggingface.co/Hyun1A/ToE_HistoREG/tree/main](hugginface).
+**For test without training**, we provided checkpoints and test slide features through [huggingface](https://huggingface.co/Hyun1A/ToE_HistoREG/tree/main).
 Put the checkpoint `ckpt_mlp.sh` in `toe/ckpt` and the test slide features `features_test_phase2.pt` in `toe/data/feature_cache`
 
 
