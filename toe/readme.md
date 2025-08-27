@@ -52,6 +52,9 @@ The option to specify in practice is `raw_feature_path`, the path to extracted t
 bash train_hier_cls_mlp.sh
 </pre>
 
+**For training without feature extraction**, we provided train slide features through [huggingface](https://huggingface.co/Hyun1A/ToE_HistoREG/tree/main).
+Put the train slide features `features_all.pt` in `toe/data/feature_cache`
+
 If you want to see the log in more detail, set the option `--wandb` as `True` in `train_hier_cls_mlp.sh`
 
 
