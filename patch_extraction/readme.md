@@ -1,4 +1,4 @@
-# TRIDENT
+## TRIDENT
 
 [TRIDENT](https://github.com/mahmoodlab/TRIDENT) is a tool for efficient processing and analysis of whole-slide images (WSIs).  
 This repository provides simple shell scripts to streamline training and testing workflows.
