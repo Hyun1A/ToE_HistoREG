@@ -37,6 +37,7 @@ Please pull the repository of [PRISM](https://huggingface.co/paige-ai/Prism) fro
 
 Run the scripts after specifying the directories of patch features, model path of PRISM, tree samples, and path to save slide features:
 
+### Train
 <pre>
 bash train_hier_cls_mlp.sh
 </pre>
@@ -46,7 +47,6 @@ bash train_hier_cls_mlp.sh
 <pre>
 bash test_hier_cls_mlp.sh
 </pre>
-
 
 
 ### References
