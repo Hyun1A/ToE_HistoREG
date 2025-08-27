@@ -46,7 +46,7 @@ Run the scripts after specifying the directories of patch features, model path o
     --feature_fn ./data/feature_cache/features_all.pt \
     --records_path ./data/tree_samples \
 </pre>
-The option to specify in practice is `raw_feature_path`, the path to extracted train patch features. If you skipped the patch extraction, put any directories for `{TRAIN_PATCH_PATH}`
+The option to specify in practice is `raw_feature_path`, the path to extracted train patch features. If you skipped the patch extraction, put any directories for `{TRAIN_PATCH_PATH}`. Then, you can train:
 
 <pre>
 bash train_hier_cls_mlp.sh
@@ -67,7 +67,7 @@ Run the scripts after specifying the directories of patch features, model path o
     --raw_feature_path {TEST_PATCH_PATH} \
     --feature_fn ./data/feature_cache/features_test_phase2.pt \
 </pre>
-The option to specify in practice is `raw_feature_path`, the path to extracted test patch features. If you skipped the patch extraction, put any directories for `{TEST_PATCH_PATH}`
+The option to specify in practice is `raw_feature_path`, the path to extracted test patch features. If you skipped the patch extraction, put any directories for `{TEST_PATCH_PATH}`. Then, you can test:
 
 <pre>
 bash test_hier_cls_mlp.sh
