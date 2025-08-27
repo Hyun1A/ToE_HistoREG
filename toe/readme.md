@@ -40,4 +40,5 @@ bash test_hier_cls_mlp.sh
 
 ### References
 [1] Shaikovski, George, et al. "Prism: A multi-modal generative foundation model for slide-level histopathology." arXiv preprint arXiv:2405.10254 (2024).
+
 [2] Jaegle, Andrew, et al. "Perceiver: General perception with iterative attention." International conference on machine learning. PMLR, 2021.
