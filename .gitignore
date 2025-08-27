@@ -22,3 +22,6 @@ toe/ckpt/*
 
 # results
 toe/results/*
+
+# wandb
+toe/wandb/*

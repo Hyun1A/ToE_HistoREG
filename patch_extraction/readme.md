@@ -52,6 +52,7 @@ bash shell_scripts/run_test_data.sh
 
 ## ⚠️ Notes
 
+- Please exclude corruped files listed in `toe/reg/corrupt_id/corrupted_id.csv`
 - Make sure the **WSI data paths** and **output directories** inside the `.sh` files are properly set before running.
 - Scripts are intended as **templates** — adjust hyperparameters or flags as needed.
 - For more details on TRIDENT features, please refer to the [official TRIDENT repo](https://github.com/mahmoodlab/TRIDENT).
