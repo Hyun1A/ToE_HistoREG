@@ -1,0 +1,12 @@
+python run_batch_of_slides.py \
+--gpu 0 \
+--wsi_dir {WSI_PATH} \
+--job_dir {SAVE_PATH} \
+--custom_list_of_wsis ./feature_extraction/csv/train_data.csv \
+--remove_artifacts \
+--patch_encoder virchow \
+--mag 20 \
+--task all \
+--segmenter grandqc \
+--patch_size 224 \
+--seg_conf_thresh 0.6
