@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 
 ### Constructing for tree labels
-We already constructed the tree labels for training dataset saved in **data/tree_samples** from the root directory. If you want to regenerate them, please refer to **toe/construct_tree_labels**. For example, **toe/construct_tree_labelsconstruct_train_tree_dataset_lung.py** aims to construct the tree labels for training samples whose organ labels are "lung"
+We already constructed the tree labels for training dataset saved in **data/tree_samples** from the root directory. If you want to regenerate them, please refer to **toe/construct_tree_labels**. For example, **toe/construct_tree_labelsconstruct_train_tree_dataset_lung.py** aims to construct the tree labels for training samples whose organ labels are "lung".
 
 
 ### Perparing slide encoder of Prism [1] (Perceiver) [2] 
