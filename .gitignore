@@ -15,7 +15,7 @@ venv/
 data/feature_cache/*
 
 # pretrained models
-/toe/Prism/*
+toe/Prism/*
 
 # trained checkpoints
 toe/ckpt/*
