@@ -22,4 +22,4 @@ CUDA_VISIBLE_DEVICES="0" python ./train_prism_hier_cls.py \
     --val_period 100 \
     --alpha ${ALPHA} \
     --lam ${LAM} \
-    --use_wandb True
+    --use_wandb False

@@ -19,3 +19,6 @@ toe/Prism/*
 
 # trained checkpoints
 toe/ckpt/*
+
+# results
+toe/results/*

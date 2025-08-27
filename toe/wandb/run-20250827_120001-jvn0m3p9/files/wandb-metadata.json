@@ -1,0 +1,99 @@
+{
+  "os":  "Linux-5.4.0-216-generic-x86_64-with-glibc2.31",
+  "python":  "CPython 3.10.18",
+  "startedAt":  "2025-08-27T12:00:01.037819Z",
+  "args":  [
+    "--aggregator_path",
+    "./Prism",
+    "--raw_feature_path",
+    "/home2/hyun/REG/data/patches_224/reg_data/virchow/pt_files",
+    "--val_anno_path",
+    "./data/val_samples.json",
+    "--feature_fn",
+    "./data/feature_cache/features_all.pt",
+    "--records_path",
+    "./data/tree_samples",
+    "--test_output_path",
+    "./results/exp_mlp_train",
+    "--ckpt_path",
+    "./ckpt/ckpt_mlp.pt",
+    "--project_name",
+    "TOE_HistoREG",
+    "--exp_name",
+    "all_organs_mlp",
+    "--probe_type",
+    "mlp",
+    "--batch_size",
+    "1024",
+    "--max_epochs",
+    "1000",
+    "--threshold",
+    "0.5",
+    "--show_rep_period",
+    "50",
+    "--val_period",
+    "100",
+    "--alpha",
+    "0.1",
+    "--lam",
+    "0.01",
+    "--use_wandb",
+    "True"
+  ],
+  "program":  "/home2/hyun/REG/repo/test/ToE_HistoREG/toe/./train_prism_hier_cls.py",
+  "codePath":  "toe/train_prism_hier_cls.py",
+  "codePathLocal":  "train_prism_hier_cls.py",
+  "git":  {
+    "remote":  "https://github.com/Hyun1A/ToE_HistoREG.git",
+    "commit":  "682b34833c5b7b4348925cb4e54da3ed8af7a37b"
+  },
+  "email":  "ldlqudgus756@snu.ac.kr",
+  "root":  "/home2/hyun/REG/repo/test/ToE_HistoREG/toe",
+  "host":  "ubuntu",
+  "executable":  "/home/hyun/anaconda3/envs/toe/bin/python",
+  "cpu_count":  24,
+  "cpu_count_logical":  48,
+  "gpu":  "NVIDIA RTX A6000",
+  "gpu_count":  4,
+  "disk":  {
+    "/":  {
+      "total":  "907983081472",
+      "used":  "846731149312"
+    }
+  },
+  "memory":  {
+    "total":  "270053101568"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA RTX A6000",
+      "memoryTotal":  "48305799168",
+      "cudaCores":  10752,
+      "architecture":  "Ampere",
+      "uuid":  "GPU-71e8ecb8-2a39-13e6-4e75-ab656a8d7ffd"
+    },
+    {
+      "name":  "NVIDIA RTX A6000",
+      "memoryTotal":  "48305799168",
+      "cudaCores":  10752,
+      "architecture":  "Ampere",
+      "uuid":  "GPU-1eef2fa3-4e64-6590-17d4-4bd51d956952"
+    },
+    {
+      "name":  "NVIDIA RTX A6000",
+      "memoryTotal":  "48305799168",
+      "cudaCores":  10752,
+      "architecture":  "Ampere",
+      "uuid":  "GPU-587bc464-6012-69d4-3ca0-21b038d57c91"
+    },
+    {
+      "name":  "NVIDIA RTX A6000",
+      "memoryTotal":  "48305799168",
+      "cudaCores":  10752,
+      "architecture":  "Ampere",
+      "uuid":  "GPU-0b62209c-c689-b66b-cdbc-a1978683fa44"
+    }
+  ],
+  "cudaVersion":  "12.2",
+  "writerId":  "soua57cl0rus40cykj3re3cad690gqmh"
+}

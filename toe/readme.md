@@ -48,10 +48,11 @@ Run the scripts after specifying the directories of patch features, model path o
 </pre>
 The option to specify in practice is `raw_feature_path`, the path to extracted train patch features
 
-
 <pre>
 bash train_hier_cls_mlp.sh
 </pre>
+
+If you want to see the log in more detail, set the option `--wandb` option as `True` in `train_hier_cls_mlp.sh`
 
 
 ### Test
@@ -71,8 +72,6 @@ bash test_hier_cls_mlp.sh
 
 **For test without training**, we provided checkpoints and test slide features through [huggingface](https://huggingface.co/Hyun1A/ToE_HistoREG/tree/main).
 Put the checkpoint `ckpt_mlp.sh` in `toe/ckpt` and the test slide features `features_test_phase2.pt` in `toe/data/feature_cache`
-
-
 
 ### References
 [1] Shaikovski, George, et al. "Prism: A multi-modal generative foundation model for slide-level histopathology." arXiv preprint arXiv:2405.10254 (2024).
