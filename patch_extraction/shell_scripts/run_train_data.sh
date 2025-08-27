@@ -1,7 +1,7 @@
 python run_batch_of_slides.py \
 --gpu 0 \
---wsi_dir {WSI_PATH} \
---job_dir {PATCH_PATH} \
+--wsi_dir {TRAIN_WSI_PATH} \
+--job_dir {TRAIN_PATCH_PATH} \
 --custom_list_of_wsis ./feature_extraction/csv/train_data.csv \
 --remove_artifacts \
 --patch_encoder virchow \

@@ -25,38 +25,52 @@ pip install -r requirements.txt
 ## 💻 Preparing tree labels and a pretrained model
 
 ### Constructing for tree labels
-We already constructed the tree labels for training dataset saved in **data/tree_samples** from the root directory. If you want to regenerate them, please refer to **toe/construct_tree_labels**. For example, **toe/construct_tree_labelsconstruct_train_tree_dataset_lung.py** aims to construct the tree labels for training samples whose organ labels are "lung".
+We already constructed the tree labels for training dataset saved in `./toe/data/tree_samples` from the root directory. If you want to regenerate them, please refer to `toe/construct_tree_labels`. For example, `toe/construct_tree_labelsconstruct_train_tree_dataset_lung.py` aims to construct the tree labels for training samples whose organ labels are "lung".
 
 ### Perparing slide encoder of Prism [1] (Perceiver) [2] 
-Please pull the repository of [PRISM](https://huggingface.co/paige-ai/Prism) from huggingface and replace the empty "Prism" folder in **toe**. (The repository must be moved exactly as it is.)
+Please pull the repository of [PRISM](https://huggingface.co/paige-ai/Prism) from huggingface and replace the empty "Prism" folder in `toe`. (The repository must be moved exactly as it is.)
 
 
 
 ## ▶️ Usage
 
+
+### Train
+
 Run the scripts after specifying the directories of patch features, model path of PRISM, tree samples, and path to save slide features in `.sh` files. The options are:
 
 <pre>
---aggregator_path ./Prism
---raw_feature_path {PATCH_PATH}
---val_anno_path ./data/val_samples.json
---feature_fn ./data/feature_cache/features_all.pt
---records_path ./data/tree_samples
+    --aggregator_path ./Prism \
+    --raw_feature_path {TRAIN_PATCH_PATH} \
+    --val_anno_path ./data/val_samples.json \
+    --feature_fn ./data/feature_cache/features_all.pt \
+    --records_path ./data/tree_samples \
 </pre>
-The option to specify in practice is `raw_feature_path`, the path to extracted patch features
+The option to specify in practice is `raw_feature_path`, the path to extracted train patch features
 
 
-### Train
 <pre>
 bash train_hier_cls_mlp.sh
 </pre>
 
 
 ### Test
+
+Run the scripts after specifying the directories of patch features, model path of PRISM, tree samples, and path to save slide features in `.sh` files. The options are:
+
+<pre>
+    --aggregator_path ./Prism \
+    --raw_feature_path {TEST_PATCH_PATH} \
+    --feature_fn ./data/feature_cache/features_test_phase2.pt \
+</pre>
+The option to specify in practice is `raw_feature_path`, the path to extracted test patch features.
+
 <pre>
 bash test_hier_cls_mlp.sh
 </pre>
 
+**For test without training**, we provided checkpoints and test slide features through [https://huggingface.co/Hyun1A/ToE_HistoREG/tree/main](hugginface).
+Put the checkpoint `ckpt_mlp.sh` in `toe/ckpt` and the test slide features `features_test_phase2.pt` in `toe/data/feature_cache`
 
 
 
