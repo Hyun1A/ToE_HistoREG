@@ -60,7 +60,7 @@ If you want to see the log in more detail, set the option `--wandb` as `True` in
 
 ### Test
 
-Run the scripts after specifying the directories of patch features, model path of PRISM, tree samples, and path to save slide features in `.sh` files. The options are:
+Run the scripts after specifying the directories of patch features, model path of PRISM, and path to save slide features in `.sh` files. The options are:
 
 <pre>
     --aggregator_path ./Prism \
